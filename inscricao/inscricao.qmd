@@ -1,0 +1,33 @@
+---
+title: Hardware
+---
+
+**Cluster IBM-AIX**
+
+`xcat01` + `node01,node02,node03,node04,node05`
+
+- 160 cores Power 755 3.3 GHz
+- 8 cores Power 720 3.0 GHz
+- 24 cores Intel X5650 2.6 GHz
+- 2 Nvidia Tesla M2070
+- Rede Infiniband
+- 768 GB RAM
+- 32 TB disco
+- SO IBM/AIX
+- Desempenho teórico 4.5 TFlops
+- Desempenho medido (Linpack) 3.6 TFlops
+
+**Cluster IBM-Ubuntu**
+
+`xcat02`
+
+- 1 x System x 3550M3
+- 8 cores Intel(R) Xeon(R) CPU E5620 @ 2.40GHz
+- 12 GB RAM
+
+`idpx01,idpx02`
+
+- 1 x DX360M3
+- 24 cores Intel(R) Xeon(R) CPU X5650 @ 2.67GHz
+- 50 GB RAM
+- 1 Nvidia Tesla M2070

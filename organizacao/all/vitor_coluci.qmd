@@ -1,0 +1,26 @@
+---
+title: "Vitor Rafael Coluci"
+about:
+  template: jolla
+  image: vitor_coluci.jpg
+  links:
+    - text: "Lattes"
+      href: http://lattes.cnpq.br/5495322642019035
+    - text: "ORCID"
+      href: https://orcid.org/0000-0001-5179-6182
+    - icon: github
+      text: Github
+      href: https://github.com/vitorcoluci
+---
+
+Tem experiência em Simulação Computacional de Materiais. Atua também em Ensino de Física, no desenvolvimento de montagens, demonstrações e [animações](https://www.youtube.com/channel/UCzag-DfragRY081pw4QgZZg){.external} para facilitar a aprendizagem.
+Coordena o espaço de Ensino e Aprendizagem [ExpLORa](https://wordpress.ft.unicamp.br/explora/){.external} da [Faculdade de Tecnologia/UNICAMP](https://wwwft.unicamp.br){.external}.
+
+**Formação**
+
+Graduado em Física pela Unicamp  
+Doutor em Física pela Unicamp
+
+**Atuação profissional**
+
+Professor | Unicamp | 2009 - presente 

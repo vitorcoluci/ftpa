@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   fill="#000000"
+   width="79"
+   height="80"
+   viewBox="-0.2 0 3.2527263 3.2939"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="uso-tempo-real.svg"
+   inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.2799099"
+     inkscape:cx="398.34247"
+     inkscape:cy="392.9836"
+     inkscape:window-width="1158"
+     inkscape:window-height="738"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8" />
+  <g
+     transform="matrix(0.09996393,0,0,0.09998786,-22.706879,-38.501025)"
+     id="g6">
+    <path
+       d="M 256.689,418 H 225.15 v -31.943 a 1,1 0 0 1 2,0 V 416 h 29.539 a 1,1 0 0 1 0,2 z"
+       id="path2" />
+    <path
+       d="m 230.171,409.995 a 1,1 0 0 1 -0.68,-1.733 l 5.024,-4.669 a 4.725,4.725 0 0 1 6.441,0.023 l 1.152,1.087 a 3.628,3.628 0 0 0 5.4,-0.468 l 7.4,-9.912 a 1,1 0 0 1 1.6,1.2 l -7.4,9.912 a 5.628,5.628 0 0 1 -8.373,0.726 l -1.152,-1.087 a 2.717,2.717 0 0 0 -3.706,-0.014 l -5.025,4.67 a 1,1 0 0 1 -0.681,0.265 z"
+       id="path4" />
+  </g>
+</svg>

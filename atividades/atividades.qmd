@@ -1,0 +1,9 @@
+---
+title: Política de uso
+---
+
+Para utilizar o cluster computacional IBM, é necessário enviar o [Formulário](./conta.doc)  preenchido e assinado para [Bruno Caires](mailto:brunolac@unicamp.br) com os dados do usuário e do projeto de pesquisa a ser desenvolvido.
+
+O cadastro será analisado e, caso aprovado, as senhas de acesso serão enviadas ao solicitante.
+
+Incluir em qualquer trabalho ou publicação, oriundos deste projeto, a frase "Pesquisa desenvolvida com o auxílio FAPESP 2010/50646-6", ou o equivalente na língua da publicação.
