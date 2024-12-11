@@ -5,3 +5,16 @@ title: Custos
 [display para festas](https://www.mcoresdigital.com.br/produtos-servicos/displays-para-festas/)
 
 Mapa da FT do estilo mapa de fantasia https://www.projetoescritacriativa.com/2023/03/4-geradores-de-mapa-de-fantasia-que.html
+
+
+| Item   |  Descrição | Valor unitário (R\$) | Quantidade |  Total (R\$) |
+|--------|------------|---------------------|------------|-------------|
+| 1      | Camiseta organizador      | 100                   |  12         |    1200         |
+| 2      | Camiseta suporte          | 80                    |  20         |    1600         |
+| 3      | [Display para foto](./display-para-festas-4_1-150x150.jpg)        | 1000                  |  2         |    2000         |
+| 4      | Banner de recepção        | 1000                  |  1         |    1000         |
+| 5      | Folder com [Mapa lúdico](mapa-zoo.jpg) (frente) + infos de cursos (trás)             | 10?                   |  500?              |    5000         |
+
+:  {.striped .hover}
+
+[upa](https://wordpress.ft.unicamp.br/upa/)
