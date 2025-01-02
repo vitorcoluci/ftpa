@@ -2,19 +2,28 @@
 title: Custos
 ---
 
-[display para festas](https://www.mcoresdigital.com.br/produtos-servicos/displays-para-festas/)
+```{python}
+#| echo: false
+custo = 1200 + 1600 + 2000 + 1000 + 8000 + 5000
+```
 
-Mapa da FT do estilo mapa de fantasia https://www.projetoescritacriativa.com/2023/03/4-geradores-de-mapa-de-fantasia-que.html
+Os custos associados ao *FT de Portas* se referem a itens para a organização do evento (camisetas) e para a divulgação dos cursos na forma de *folders* a serem entregues para os visitantes.
 
+O uso de um mapa "lúdico", similar ao [apresentado pela própria Unicamp](https://internationaloffice.unicamp.br/wp-content/uploads/sites/26/2023/10/MAPA-BARAO-GERALDO-baixa.jpg#/home) em seu [sítio](https://unicamp.br/unicamp/mapas/), é uma proposta para apresentar e enfatizar a FT dentro do Campus I da Unicamp em Limeira e, assim, separar a associação cultural da população limeirense de que o campus II (FCA) é a Unicamp e o campus I (FT e Cotil) é o somente o Cotil.
 
 | Item   |  Descrição | Valor unitário (R\$) | Quantidade |  Total (R\$) |
 |--------|------------|---------------------|------------|-------------|
 | 1      | Camiseta organizador      | 100                   |  12         |    1200         |
 | 2      | Camiseta suporte          | 80                    |  20         |    1600         |
 | 3      | [Display para foto](./display-para-festas-4_1-150x150.jpg)        | 1000                  |  2         |    2000         |
-| 4      | Banner de recepção        | 1000                  |  1         |    1000         |
-| 5      | Folder com [Mapa lúdico](mapa-zoo.jpg) (frente) + infos de cursos (trás)             | 10?                   |  500?              |    5000         |
-
+| 4      | [Banner de recepção](https://unicamp.br/unicamp/sites/default/files/2023-03/Atu_20220915_Calourada-2023_Scarpa_AJS_8576_Capa.jpg)        | 1000                  |  1         |    1000         |
+| 5      | Confeçcão de [Mapa lúdico](mapa-zoo.jpg)             | 8000                   |  1              |    8000         |
+| 6      | Folder:  Mapa lúdico (frente) + infos de cursos (trás)             | 10?                   |  500?              |    5000         |
+| Total Geral      |              |                  |               |    **`{python} custo`**         |
 :  {.striped .hover}
 
-[upa](https://wordpress.ft.unicamp.br/upa/)
+
+
+[1]: # ( [display para festas](https://www.mcoresdigital.com.br/produtos-servicos/displays-para-festas/) )
+
+[2]: # (Mapa da FT do estilo mapa de fantasia https://www.projetoescritacriativa.com/2023/03/4-geradores-de-mapa-de-fantasia-que.html)

@@ -1,6 +1,6 @@
 ::: {.centerText}
 <!--  ![](./assets/cluster.jpg){width=40%} -->
-{{< video https://www.youtube.com/watch?v=M8yzSSB4ko4 width="400" height="300" >}}
+{{< video https://www.youtube.com/watch?v=M8yzSSB4ko4 width="600" height="300" >}}
 :::
 
 ::: {.column-page}

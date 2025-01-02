@@ -2,8 +2,4 @@
 title: "Sobre"
 ---
 
-::: {.centerText}
-![[Fonte](https://commons.wikimedia.org/wiki/File:Bifaz_triangular.jpg)](fig-pedra.jpg){width=60%}
-:::
-
-O nome *Lascado* faz alusão ao Período Paleolítico (2.6 mi a 10 mil aC), conhecido como Idade da Pedra Lascada. Nesse período ocorreu o desenvolvimento dos primeiros instrumentos de caça feitos em osso, madeira ou pedra lascada. Nessa mesma época o fogo começou a ser usado para proporcionar conforto, proteção, mobilidade e poder. Isso mostra que o desenvolvimento intelectual de uma espécie está relacionada a sua capacidade de fabricar ferramentas sofisticadas.
+A *FT de Portas Abertas* é um evento que ocorrerá na [Faculdade de Tecnologia](../localizacao/localizacao.qmd) da Unicamp/Limeira (Campus I) que visa apresentar suas instalações, atividades realizadas e os cursos de graduação oferecidos.

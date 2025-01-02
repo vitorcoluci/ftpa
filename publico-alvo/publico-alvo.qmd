@@ -1,83 +1,10 @@
 ---
-title: Projetos
+title: Público-alvo
 ---
 
-**Ativos**
+A *FT de Portas Abertas* tem como público-alvo principalmente **jovens que estão cursando o ensino médio** e que estão na fase da escolha de um curso universitário. 
 
--  Controle de diversidade em métodos de solução para o Vehicle Routing Problem; Responsável: Mariá Cristina Vasconcelos Nascimento Participante: Vinícius Rosa Máximo
+De acordo com [dados de 2023](https://qedu.org.br/municipio/3526902-limeira/censo-escolar) do portal de dados educacionais [QEdu](https://qedu.org.br/), Limeira teve mais de **3000** estudantes matriculados na 3^o^ ano do Ensino Médio, sendo 2654 matrículas 3a seria de 25 escolas públicas e 562 matrículas de 18 escolas particulares. Para esses estudantes, a *FT de Portas Abertas* apresentará opções de cursos gratuitos, de qualidade e associados a áreas muito relevantes atualmente e que estão disponíveis na cidade de Limeira.
 
--  Ampliação de quantidade de padrões de matrizes classificadas e reordenadas pelo método Hybrid Sort de reordenação de matrizes; Responsável: Celmar Guimarães da Silva; Participante: Matheus Alves da Silva
+Além de estudantes do Ensino Médio, a *FT de Portas Abertas* também pretende alcançar a **população de forma geral**, atingindo, por exemplo, os familiares desses estudantes, a fim de divulgar atividades de pós-graduação, de pesquisa e de extensão que são oferecidos pela Faculdade de Tecnologia.
 
--  Desenvolvimento de regras de controle para ajustes de curot prazo no gerenciamento de reservatório de petróleo; Responsável: João Bertini; Participante: Sérgio Ferreira
-
--  Desenvolvimento e caracterização de ligas multi-elementos principais à base de MO-nb-Ti-w com adição de Hf/Cu; Responsável: Ausdinir Danila Bortolozo; Participante: João Felipe Queiroz Rodrigues
-
--  Low-dimensional superconductivity for sensors os electromagnetic fields; Responsável: Marcelo Zoéga Maialle; Participante: Wojciech Julian Pasek
-
--  Dinâmica de spins em pontos quânticos duplos; Responsável: Marcelo Zoega Maialle
-
--  Restauração da Escola de Itu; Responsável: João Berini; Participante: Pedro Henrique Correia
-
--  Estudo das propriedades Esturturais e dinâmicas de surfactantes; Responsável: Eduardo Costa Girão; Participante: José Moreira de Sousa
-
-**Finalizados**
-
--  Utilização de ambiente de alto desempenho para simulação de sistemas de comunicação utilizando linguagem Java; Responsável: Cristhof Johann Roosen Runge; Participantes: Maximiliano Nunes Biscaia
-
--  Estudo do efeito de grupos oxigenados na adsorção de agrotóxicos em nanotubos de carbono oxidados utilizando cálculos de primeiros princípios; Responsável: Vitor R. Coluci; Participantes: Marcos Dionizio Moreira
-
--  Comportamento de florestas de nanotubo sujeitas à compressão mecânica; Responsável: Vitor R. Coluci; Participantes: Vanessa Cadan Scheffer
-
--  Adsorção de poluentes ambientais em nanomateriais; Responsável: Vitor R. Coluci; Participantes: Tsai Hsin Yu
-
--  Mineração de dados do tipo imagem e texto em SGBD Ooracle 12c; Responsável: Gisele Busichia Baioco; Participantes: Caio Almeida Mattos Serrano
-
--  Desenvolvimento de Meta-heurísticas para Otimização de estratégia de produção para campos de petróleo; Responsável: Guilherme Palermo Coelho; Participantes: Romulo Messias Silva Souza
-
--  Propriedades eletrônicas do grafeno; Responsável: Ana Luiza Cardoso Pereira; Participantes: Gabriel Ortolan Fiano, Daniel Alejandro Solis Lerma, Carolina A. Siqueira, Carlos J P Gonzáles
-
--  Fotodetectores de infravermelho; Responsável: Marcos Henrique Degani
-
--  Aplicação de computação de alto desempenho em problemas interdisciplinares; Responsável: Vitor R. Coluci (FAPESP Processo 2010/50646-6)
-
--  Desenvolvimento de uma animação 3D a partir do uso de técnicas de computação gráfica; Responsável: Marco Antônio Gracia de Carvalho; Participantes: Mateus Sanches Nogueira
-
--  Exploração numérica do tempo de recobrimento de grafos finitos.* Responsável: Varese S. Timóteo (PDS 151999/2010-4); Participantes: José Ricardo G de Mendonça
-
--  Polemerização de cristais moleculares; Responsável: Vitor R. Coluci; Participantes: Luiz Claudemir Garcia Junior
-
--  A força nuclear e o grupo de renormalização; Responsável: Varese S. Timóteo (FAPESP 2011/18211-2)
-
--  Redução de tempo computacional de cálculo envolvendo o transiente hidráulico; Responsável: Vitor R. Coluci; Participantes: Anderson Luiz Lazzarini Silveira
-
--  Alterações topológicas para reduzir a propagação de falhas na rede elétrica de alta-tensão; Responsável: André Franceschi de Angelis; Participantes: William Roberto de Paiva
-
--  Processamento de alto desempenho aplicado à modelagem matemática; Responsável: André Leon S. Gradvohl; Participantes: Thamires Dupre Guimarães
-
--  Processamento de imagens astronômicas em arquiteturas de computação de alto desempenho; Responsável: André Leon S. Gradvohl; Participantes: Fábio Andrijauskas
-
--  Reordenação automática de gráficos interativos; Responsável: Celmar Guimarães da Silva; Participantes: Amanda Poreto, Bruno Figueireido Medina
-
--  Reordenação de Matrizes; Responsável: Celmar Guimarães da Silva; Participantes: Bruno Figueireido Medina
-
--  Mineração de dados aplicada ao monitoramento ambiental; Responsável: Camolesi Jr; Participantes: José Luis Zem
-
--  Metalinguagem para processamento de alto desempenho em arquiteturas híbridas; Responsável: André Leon S. Gradvohl (FAPESP Processo 2011/00861-0)
-
--  Estudos de distâcias de rearranjos de genomas em problemas que consideram reversões e transposições; Responsável: Ulisses Martins Dias
-
--  Phase transition in the SRG ow of nuclear interactions; Responsável: Varese S. Timóteo (FAPESP 2016/07061-3)
-
--  Primeiro autovalor de matrizes hermitianas por meio de algoritimos genéticos paralelizados de GPUs; Responsável: Vitor R. Coluci
-
--  Das forças de dois núcleos aos núcleos leves com o grupo de renormalização de similaridade; Responsável: Varese S. Timóteo (FAPESP projeto 2014/04975-9)
-
--  Desenvolvimento de uma animação 3D a partir do uso de técnicas de computação gráfica; Responsável: Marco Antônio Gracia de Carvalho; Participantes: Xilon dos Santos Xiao
-
--  INCT - Citros; Responsável: Vitor R. Coluci; Participantes: Marco Aurélio Takita
-
--  Mineração de dados aplicada ao monitoramento ambiental; Responsável: Camolesi Jr; Participantes: José Luis Zem
-
--  Metalinguagem para processamento de alto desempenho em arquiteturas híbridas; Responsável: André Leon S. Gradvohl (FAPESP Processo 2011/00861-0)
-
--  Modelagem dos resíduos em delineamentos experimentais; Responsável: Luis Roberto M. Pinto
