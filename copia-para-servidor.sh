@@ -1,5 +1,6 @@
 #!/bin/bash
-scp -r _site vitor@adm130:~/
-
-# estando no servidor adm130, executar o comando /vitor/copia-cluster 
-# para copia o conteudo de _site para o /var/wwww
+cp index.html robots.txt search.json sitemap.xml styles.css ~/Downloads/ftpa-planejamento/
+cp -r atividades custos dados inscricao justificativa localizacao organizacao publico-alvo site_libs sobre ~/Downloads/ftpa-planejamento/
+cd ~/Downloads/ftpa-planejamento
+git commit -am "subindo website"
+git push origin main

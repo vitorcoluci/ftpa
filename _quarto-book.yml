@@ -1,0 +1,29 @@
+project:
+  type: book
+
+book:
+  title: "FT de Portas Abertas 2025"
+  author: "Comissão"
+  date: "01/03/2025"
+  chapters:
+    - index.qmd
+    - organizacao/organizacao.qmd
+    - publico-alvo/publico-alvo.qmd
+    - justificativa/justificativa.qmd
+    - custos/custos.qmd
+    - atividades/atividades.qmd
+    - localizacao/localizacao.qmd
+     
+
+format:
+  html:
+    lang: pt
+    page-layout: full
+    theme: cosmo
+    css: styles.css
+    toc: true
+  pdf:
+    documentclass: scrreprt
+    number-sections: true
+    colorlinks: true
+    keep-tex: true

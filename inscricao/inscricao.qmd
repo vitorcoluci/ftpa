@@ -1,33 +1,173 @@
 ---
-title: Hardware
+title: Inscrição
+format:
+    html:
+        include-in-header:
+            text: |
+                <link href="https://unpkg.com/tabulator-tables@6.2.1/dist/css/tabulator.min.css" rel="stylesheet"> <script type="text/javascript" src="https://unpkg.com/tabulator-tables@6.2.1/dist/js/tabulator.min.js"></script>
 ---
 
-**Cluster IBM-AIX**
+## Formulário {#form_escolas}
 
-`xcat01` + `node01,node02,node03,node04,node05`
 
-- 160 cores Power 755 3.3 GHz
-- 8 cores Power 720 3.0 GHz
-- 24 cores Intel X5650 2.6 GHz
-- 2 Nvidia Tesla M2070
-- Rede Infiniband
-- 768 GB RAM
-- 32 TB disco
-- SO IBM/AIX
-- Desempenho teórico 4.5 TFlops
-- Desempenho medido (Linpack) 3.6 TFlops
+```{=html}
+<form id="formulario">
+   <p><div class="form-group">
+        <label for="escola">Nome</label>
+        <input type="text" class="form-control" id="escola" placeholder="Insira seu nome">
+    </div></p> 
+   <p><div class="form-group">
+        <label for="municipio">Município</label>
+        <input type="text" class="form-control" id="municipio" placeholder="Insira o nome do município onde você mora">
+    </div></p> 
+    <div id="grupos"></div>
+   <p><button type="submit" class="btn btn-warning">Gerar inscrição</button></p>
+</form>
 
-**Cluster IBM-Ubuntu**
+<script defer>
+    const nulo = '---';
+    const horarios = [ 
+        '19h às 20h',
+        '20h às 21h',
+        '21h às 22h',
+    ];
+    const dias = ['18/06','19/06','20/06'];
+    const alunos = {
+        label: "Quantidade de alunos",
+        options: [
+            nulo,
+            'menos que 15',
+            'entre 15 e 30',
+            'entre 30 e 50'
+        ]
+    };
+    const escolaridade = {
+        label: "Escolaridade",
+        options: [
+            nulo,
+            'Infantil',
+            'Fundamental 1',
+            'Fundamental 2',
+            'Ensino Médio',
+            'EJA',
+            'Superior',
+            'Misto'
+        ]   
+    };
+    const agendamentos = [
+        {escola:'A', professor:'C', dia:'1', horario:'1', escolaridade:'F', alunos: '0'},
+    ];
 
-`xcat02`
+    const Ngrupos = 6;
 
-- 1 x System x 3550M3
-- 8 cores Intel(R) Xeon(R) CPU E5620 @ 2.40GHz
-- 12 GB RAM
+    const evento = 'FT Portas Abertas 2025';
 
-`idpx01,idpx02`
+    const professor = {
+        label: "Professor(a)",
+        placeholder: "Professor(a) responsável por acompanhar os estudantes"
+    }
+    const telefone = {
+        label: "Telefone",
+        placeholder: "Telefone para contato em caso de necessidade"
+    }
 
-- 1 x DX360M3
-- 24 cores Intel(R) Xeon(R) CPU X5650 @ 2.67GHz
-- 50 GB RAM
-- 1 Nvidia Tesla M2070
+    const datas = genDatasDisponiveisLista(agendamentos, dias, horarios);
+
+    let grupos = document.getElementById("grupos");
+    for (let i = 1; i < Ngrupos+1; i++) {
+        let botaoHTML = fromHTML(`<p><button type="button" class="btn btn-primary btn-block" data-bs-toggle="collapse" href="#grupo${i}">Grupo ${i}</button></p>`);
+        grupos.append(botaoHTML);
+        let divHTML = fromHTML(`<div id="grupo${i}" class="collapse"></div>"`);
+        let professorHTML = genInput(`professor${i}`, divHTML, 'text', professor.label, professor.placeholder);
+        let telefoneHTML = genInput(`telefone${i}`, divHTML, 'text', telefone.label, telefone.placeholder);
+        let alunosHTML = genSelect(`alunos${i}`, divHTML, alunos.options, alunos.label); 
+        let escolaridadeHTML = genSelect(`escolaridade${i}`, divHTML, escolaridade.options, escolaridade.label); 
+        grupos.append(divHTML);
+    };  
+
+    
+
+    function formSubmit(event) {
+        event.preventDefault();
+        let el = event.target.elements;
+        let x0 = ``;
+        let x = ``;
+        if (el.escola.value == "") return alert("Insira seu nome.");
+        else {
+            x0 = 
+`Prezados organizadores da ${evento},
+
+Nós, da instituição ${el.escola.value}, localizada no município de ${el.municipio.value}, gostaríamos de solicitar o agendamento para participação na FT de Portas Abertas 2025.`
+        }; 
+        for (let i = 1; i < Ngrupos+1; i++) {
+            if (el[`professor${i}`].value != "" &&
+                el[`telefone${i}`].value != "" &&
+                el[`alunos${i}`].value != nulo &&
+                el[`opcao${i}1`].value != nulo) 
+            {
+                x += 
+`
+
+Grupo ${i}:
+- Professor responsável: ${el[`professor${i}`].value}
+- Telefone: ${el[`telefone${i}`].value}
+- Número de alunos: ${el[`alunos${i}`].value}
+- Escolaridade: ${el[`escolaridade${i}`].value}`;
+            }
+        }
+        if (x == "") return alert("Informe os dados de pelo menos um grupo de alunos.");
+        else {
+            el.solicitacao.value = x0 + x;
+            navigator.clipboard.writeText(x0+x);
+            document.getElementById('solicitacao').setAttribute('rows', '20');  
+            return alert("A solicitação foi copiada para a área de transferência. Cole-a no corpo do email e envie para oberve@ufscar.br");
+        }
+    }
+    document.getElementById("formulario").addEventListener("submit", formSubmit);
+
+    function genSelect(id, parentHTML, optionsList, label = "", paragraph = true) {
+        let selectHTML = fromHTML(`<select class="form-select" id="${id}"></select>`);
+        for (option of optionsList) {
+            let optHTML = fromHTML(`<option>${option}</option>`);
+            selectHTML.append(optHTML);
+        }
+        if (label != "") {
+            let labelHTML = fromHTML(`<label for="${id}">${label}</label>`);
+            parentHTML.append(labelHTML);
+        }
+        if (paragraph) {
+            let parHTML = fromHTML('<p></p>');
+            parHTML.append(selectHTML);
+            parentHTML.append(parHTML);
+        }
+        else parentHTML.append(selectHTML);
+    }
+
+    function genInput(id, parentHTML, type, label = "", placeholder = "", paragraph = true) {
+        let inputHTML = fromHTML(`<input type="${type}" class="form-control" id="${id}" placeholder="${placeholder}">`);
+        if (label != "") {
+            let labelHTML = fromHTML(`<label for="${id}">${label}</label>`);
+            parentHTML.append(labelHTML);
+        }
+        if (paragraph) {
+            let parHTML = fromHTML('<p></p>');
+            parHTML.append(inputHTML);
+            parentHTML.append(parHTML);
+        }
+        else parentHTML.append(inputHTML);
+    }
+
+    function fromHTML(html, trim = false) {
+        html = trim ? html.trim() : html;
+        if (!html) return null;
+
+        const template = document.createElement('template');
+        template.innerHTML = html;
+        const result = template.content.children;
+
+        if (result.length === 1) return result[0];
+        return result;
+    }
+
+</script>
+```
