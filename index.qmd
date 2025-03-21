@@ -6,31 +6,21 @@
 ::: {.column-page}
 
 ::: {.centerText}
-FT Portas abertas
+A *FT de Portas Abertas* é um evento que ocorrerá na [Faculdade de Tecnologia](../localizacao/localizacao.qmd) da Unicamp/Limeira (Campus I) que visa apresentar suas instalações, atividades realizadas e os cursos de graduação oferecidos.
 :::
 
-::: {.light-mode}
 ::: {.centerText}
-
 
 ::: {.grid}
 
-::: {.g-col-sm-2 .g-col-12}
+::: {.g-col-5}
+[![Inscrição](inscricao/inscricao.svg)](inscricao/inscricao.qmd)
 :::
 
-::: {.g-col-sm-2 .g-col-12}
-[![Organização](organizacao/organizacao.svg)](organizacao/organizacao.qmd)
+::: {.g-col-2}
 :::
 
-::: {.g-col-sm-2 .g-col-12}
-[![Justificativa](justificativa/justificativa.svg)](justificativa/justificativa.qmd)
-:::
-
-::: {.g-col-sm-2 .g-col-12}
-[![Sobre](sobre/sobre.svg)](sobre/sobre.qmd)
-:::
-
-::: {.g-col-sm-2 .g-col-12}
+::: {.g-col-5}
 [![Como chegar](localizacao/localizacao.svg)](localizacao/localizacao.qmd)
 :::
 
@@ -39,25 +29,15 @@ FT Portas abertas
 
 ::: {.grid}
 
-::: {.g-col-sm-2 .g-col-12}
-:::
-
-::: {.g-col-sm-2 .g-col-12}
+::: {.g-col-5}
 [![Atividades](atividades/atividades.svg)](atividades/atividades.qmd)
 :::
 
-::: {.g-col-sm-2 .g-col-12}
-[![Público-alvo](publico-alvo/publico-alvo.svg)](publico-alvo/publico-alvo.qmd)
+::: {.g-col-2}
 :::
 
-::: {.g-col-sm-2 .g-col-12}
-[![Inscrição](inscricao/inscricao.svg)](inscricao/inscricao.qmd)
-:::
-
-::: {.g-col-sm-2 .g-col-12}
-[![Custos](custos/custos.svg)](custos/custos.qmd)
-:::
-
+::: {.g-col-5}
+[![Sobre](sobre/sobre.svg)](sobre/sobre.qmd)
 :::
 
 :::

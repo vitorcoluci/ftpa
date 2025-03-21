@@ -1,0 +1,35 @@
+---
+title: Justificativa
+---
+
+A Faculdade de Tecnologia (FT) oferece 6 cursos de graduação, sendo 2 deles de Tecnologia, 3 de Engenharia e 1 de Bacharelado. Os cursos são: 
+
+- **Tecnologia**: Tecnologia em Análise e Desenvolvimento de Sistemas e Tecnologia em Saneamento Ambiental;
+
+- **Engenharias**: Engenharia Ambiental, Engenharia de Telecomunicações e Engenharia de Transportes;
+
+- **Bacharelado**: Sistemas de Informação.
+
+De acordo com [dados](https://www.comvest.unicamp.br/base-de-dados-comvest/vestibulares/vestibulares-anteriores/) da Comissão Permanente para os Vestibulares ([Convest](https://www.comvest.unicamp.br/)) da Unicamp, a procura pelos cursos oferecidos pela FT tem sido majoritariamente *baixa*. Essa procura pode ser quantificada pela relação candidato-vaga para a 1^a^ fase do vestibular, indicada nas figuras a seguir.
+
+::: {.centerText}
+![Evolução da relação de candidatos por vaga para os cursos de Engenharia da FT.](../dados/grafico-candidato-vaga-engenharias.png){width=60%}
+:::
+
+::: {.centerText}
+![Evolução da relação de candidatos por vaga para o curso de Bacharelado da FT.](../dados/grafico-candidato-vaga-bacharelado.png){width=60%}
+:::
+
+::: {.centerText}
+![Evolução da relação de candidatos por vaga para os cursos de Tecnologia da FT.](../dados/grafico-candidato-vaga-tecnologia.png){width=60%}
+:::
+
+Os cursos da área de computação (dados em azul) tem apresentado um crescimento da relação candidato-vaga, principlamente para o curso de Tecnologia em Análise de Sistemas que alcançou 24 candidatos por vaga em 2024, ficando entre os [10 mais concorridos da Unicamp](https://unicamp.br/noticias/2024/09/20/comvest-registra-63-mil-estudantes-inscritos-no-vestibular-2025/).
+
+Por outro lado, esse desempenho não tem ocorrido para os cursos de Engenharia, os quais tem apresentado, na média, um decréscimo da relação candidato-vaga. Em 2024, essa relação ficou em torno de 5 candidatos por vaga para os 3 cursos. Esse valor pode ser comparado com as relações dos cursos de Engenharia de Produção e de Manufatura, ambos oferecidos também em Limeira mas no Campus II, de 17 e 4, respectivamente.
+
+Essa comparação indica que aspectos do próprio curso influenciam a procura, uma vez que cursos oferecidos no mesmo campus possuem relações (4 e 17) tão diferentes. No entanto, por outro lado, principalmente para o caso da FT, há uma percepção por parte do corpo docente da FT de que o desconhecimento pela população de Limeira sobre a FT influencia a procura por seus cursos. Essa percepção está associada ao Cotil, o colégio técnico da Unicamp em Limeira, que divide o Campus I com a FT. Parece haver a impressão que no Campus I só existe o Cotil, uma escola técnica, desconhecendo-se a FT, uma faculdade de Ensino Superior. É comum e recorrente a confusão de levar professores externos que viriam para a FT partipar de bancas, por exemplo, para o Campus II. Isso porque a população em geral e, particularmente, profissionais como motoristas e taxistas, associarem o Campus II como "Unicamp" e o Campus I apenas como "Cotil".
+
+A FT também participa da **Unicamp de Portas Abertas** ([UPA](https://upa.unicamp.br/)) onde os [cursos de graduação são apresentados](https://wordpress.ft.unicamp.br/upa/). Essa participação tem beneficiado a divulgação dos cursos da FT. No entanto, pelo fato da FT estar localizada numa outra cidade, apenas a participação do evento em Campinas não atinge um público-alvo importante para o crescimento da procura pelos cursos da FT que são os alunos de Ensino Médio de Limeira e região. A falta de contato com as instalações e atividades realizadas na FT restringe as oportunidades para que possíveis ingressantes da Unicamp optem pelos cursos da FT. 
+
+Pelas razões expostas aqui, estamos propondo a realização da *FT de Portas Abertas* no próprio campus da FT, a fim expandir o conhecimento da população de Limeira e região sobre a FT e as oportunidades de Ensino, Pesquisa e Extensão que ela oferece. Esse tipo de ação já é feito pelos [colégios técnicos da Unicamp](https://unicamp.br/noticias/2024/07/24/colegios-tecnicos-da-unicamp-abrem-portas-para-novos-estudantes/), que ficam foram do campus de Barão Geraldo.

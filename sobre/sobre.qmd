@@ -1,5 +1,9 @@
 ---
 title: "Sobre"
 ---
+::: {.centerText}
+[![](/logo-FT/logo-com-nome.png)](https://www.ft.unicamp.br)
+:::
+
 
 A *FT de Portas Abertas* é um evento que ocorrerá na [Faculdade de Tecnologia](../localizacao/localizacao.qmd) da Unicamp/Limeira (Campus I) que visa apresentar suas instalações, atividades realizadas e os cursos de graduação oferecidos.

@@ -8,29 +8,25 @@ website:
   title: "*FT Portas Abertas*"
   site-url: https://www.ft.unicamp.br
   navbar:
+    logo: /logo-FT/logo-com-nome.png
     left:
       - href: organizacao/organizacao.qmd
         text: Organização     
-      - href: justificativa/justificativa.qmd
-        text: Justificativa 
-      - href: custos/custos.qmd
-        text: Custos
       - href: atividades/atividades.qmd
         text: Atividades
       - href: localizacao/localizacao.qmd
         text: Como chegar
+    tools:
+      - icon: instagram
+        href: http://instagram.com/ft_unicamp
 
   page-footer:
     "FT de Portas Abertas 2025"
-
 
 format:
   html:
     lang: pt
     page-layout: full
-    theme: 
-      light: [flatly, light_mode.scss]
-      dark: [darkly, dark_mode.scss]
     css: styles.css
     toc: true
 
