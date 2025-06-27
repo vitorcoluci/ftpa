@@ -1,0 +1,38 @@
+project:
+  type: website
+  preview: 
+    port: 4321
+  
+  
+website:
+  title: "*FT Portas Abertas*"
+  site-url: https://www.ft.unicamp.br
+  navbar:
+    left:
+      - href: organizacao/organizacao.qmd
+        text: Organização     
+      - href: justificativa/justificativa.qmd
+        text: Justificativa 
+      - href: custos/custos.qmd
+        text: Custos
+      - href: atividades/atividades.qmd
+        text: Atividades
+      - href: localizacao/localizacao.qmd
+        text: Como chegar
+
+  page-footer:
+    "FT de Portas Abertas 2025"
+
+
+format:
+  html:
+    lang: pt
+    page-layout: full
+    theme: 
+      light: [flatly, light_mode.scss]
+      dark: [darkly, dark_mode.scss]
+    css: styles.css
+    toc: true
+
+
+

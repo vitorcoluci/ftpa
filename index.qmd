@@ -1,9 +1,67 @@
----
-title: "Introdução"
----
+::: {.centerText}
+<!--  ![](./assets/cluster.jpg){width=40%} -->
+{{< video https://www.youtube.com/watch?v=M8yzSSB4ko4 width="600" height="300" >}}
+:::
 
-**FT de Portas Abertas 2025**
+::: {.column-page}
 
-Este relatório apresenta a avaliação do Programa de Pós-graduação em Tecnologia (PPGT) da Faculdade de Tecnologia/UNICAMP no quadriênio **2021-2024**. A avaliação foi realizada pela Comissão de Auto-avaliação (CAA) instituída pela coordenação do PPGT. 
+::: {.centerText}
+FT Portas abertas
+:::
 
-O capítulo [Equipe](equipe/equipe.qmd) 
+::: {.light-mode}
+::: {.centerText}
+
+
+::: {.grid}
+
+::: {.g-col-sm-2 .g-col-12}
+:::
+
+::: {.g-col-sm-2 .g-col-12}
+[![Organização](organizacao/organizacao.svg)](organizacao/organizacao.qmd)
+:::
+
+::: {.g-col-sm-2 .g-col-12}
+[![Justificativa](justificativa/justificativa.svg)](justificativa/justificativa.qmd)
+:::
+
+::: {.g-col-sm-2 .g-col-12}
+[![Sobre](sobre/sobre.svg)](sobre/sobre.qmd)
+:::
+
+::: {.g-col-sm-2 .g-col-12}
+[![Como chegar](localizacao/localizacao.svg)](localizacao/localizacao.qmd)
+:::
+
+:::
+
+
+::: {.grid}
+
+::: {.g-col-sm-2 .g-col-12}
+:::
+
+::: {.g-col-sm-2 .g-col-12}
+[![Atividades](atividades/atividades.svg)](atividades/atividades.qmd)
+:::
+
+::: {.g-col-sm-2 .g-col-12}
+[![Público-alvo](publico-alvo/publico-alvo.svg)](publico-alvo/publico-alvo.qmd)
+:::
+
+::: {.g-col-sm-2 .g-col-12}
+[![Inscrição](inscricao/inscricao.svg)](inscricao/inscricao.qmd)
+:::
+
+::: {.g-col-sm-2 .g-col-12}
+[![Custos](custos/custos.svg)](custos/custos.qmd)
+:::
+
+:::
+
+:::
+
+:::
+
+:::
