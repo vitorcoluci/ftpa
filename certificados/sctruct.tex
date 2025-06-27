@@ -1,0 +1,70 @@
+\usepackage[utf8]{inputenc}
+\usepackage[brazil]{babel} 
+\usepackage[top=1.5cm,bottom=1cm,left=1cm,right=1cm,headsep=10pt,a4paper]{geometry} % Page margins
+\usepackage{graphicx} % Required for including pictures
+\graphicspath{{png/}} % Specifies the directory where pictures are stored
+
+% Non hifenize:
+\usepackage[none]{hyphenat}
+\usepackage{ifthen}
+\usepackage{scalefnt}
+\usepackage[listings,skins,breakable]{tcolorbox}
+
+\usepackage{xcolor} % Required for specifying colors by name
+% colors
+\definecolor{verde}{HTML}{138d75}
+
+\usepackage[pages=some]{background}
+
+\backgroundsetup{
+scale=1,
+color=black,
+opacity=1,
+angle=0,
+contents={%
+  \includegraphics[width=\paperwidth,height=\paperheight]{png/design.png}
+  }%
+}
+
+%% Command to insert the default page
+\newcommand{\para}[2]{
+\BgThispage
+~
+\vskip 1cm
+
+\begin{center}
+{\scalefont{2} \sc FT de Portas Abertas}\\[5pt]
+{\scalefont{1.5} \sc \color{verde} Universidade Estadual de Campinas}\\
+{\scalefont{1.3} \sc \color{verde} 13 e 14 de Junho de 2025 -- Limeira-SP}\\
+\end{center}
+
+\vskip 3cm
+
+\hskip 10pt
+	\begin{center}
+\begin{minipage}{0.7\textwidth}
+	\scalefont{1.5}
+	
+		Certifico que {\sc #1} (RA #2) participou da equipe de organização e execução do ``{\bf FT de Portas Abertas}'', realizado no Faculdade de Tecnologia da Universidade Estadual de Campinas, com carga horária de {\bf 14 horas}, realizado nos dias 13 e 14 de Junho de 2025.
+
+\end{minipage}
+	\end{center}
+
+\vskip -1cm
+	\begin{minipage}{0.2\textwidth}
+	~
+	\end{minipage}
+	\begin{minipage}{0.4\textwidth}
+		\scalefont{1.1}
+        \vskip 20pt
+		\hskip 50pt\includegraphics[width=4cm]{png/assinatura}\\[-12pt]
+		\rule{8cm}{1pt}\\[5pt]
+		Prof. Dr. Vitor Rafael Coluci\\
+		Presidente da Comissão Organizadora \\
+		Limeira, 30 de Junho de 2025.
+	\end{minipage}
+	\begin{minipage}{0.45\textwidth}
+		\vskip 3cm
+		\includegraphics[width=9cm]{png/logo}
+	\end{minipage}
+}
