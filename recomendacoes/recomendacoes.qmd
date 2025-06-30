@@ -1,11 +1,109 @@
 ---
-title: Metodologia
+title: Recomendações
 ---
 
-A metodologia de autoavaliação do Programa de Pós-Graduação em Tecnologia (PPGT) é estruturada para reflet
+Durante a execução do FT de Portas Abertas, diversos pontos foram percebidos que poderiam ser levados em conta para a melhoria das edições futuras.  A seguir, listamos esses pontos.
 
 
-## O Programa de Pós-Graduação em Tecnologia {#programa}
+## Comissão Permanente
 
-Segundo o Planejamento Estratégico revisado do Programa de
-Pós-Gr
+A comissão organizadora foi instituída em 
+16/12/2024 e a primeira reunião ocorreu no dia 6/01/2025. Dada a importância do evento para a própria FT, vimos a necessidade de mais tempo para a organização. Parte disso se deve ao fato de ser o primeiro evento desse tipo na FT, o que requereu aprender muitos processos, tomando muito tempo da comissão. Uma sugestão seria instituir uma comissão permanente que poderia trabalhar ao longo do ano para o planejamento e divulgação do evento.
+
+## Composição da comissão organizadora
+
+A participação dos alunos foi essencial para o sucesso do FT de Portas Abertas. A inclusão de alunos na comissão organizadora iria facilitar a comunicação e planejamento das atividades com a equipe de suporte (monitores).
+
+## Divisão de tarefas na comissão
+
+As tarefas ficaram muito concentradas para o presidente da comissão. A sugestão para o próximo presidente, para o próprio bem dele, seria dividir a equipe em grupos para atividades específicas como, por exemplo,  (a) compras/contratação, (b) divulgação nas escolas, (c) página e mídias sociais, (d) logística e (e) atrações.
+
+## Convênio com prefeitura de Limeira
+
+A baixa adesão de escolas públicas de Limeira no evento trouxe um alerta. Apesar de esforços na divulgação via email e presencial em algumas escolas, uma maior participação poderá ser alcançado estabelecendo-se um convênio com a Prefeitura de Limeira. Isso deve ser feita com antecedência já que trâmites nesse sentido podem demorar. Uma outra ação complementar seria contratar ônibus para trazer os estudantes de algumas escolas de Limeira para o evento. Recursos da curricularização da extensão poderiam ser usados para isso.
+
+
+## Parceria com o Cotil 
+
+Apesar da divulgação do evento para a diretoria acadêmica do Cotil, a participação ocorreu apenas com uma turma de alunos, trazida por iniciativa individual de um professor. Realizar a divugação do FT de Portas abertas junto ao Cotil deve ser uma prioridade para a próxima comissão organizadora. 
+
+## Horário das atrações
+
+As dinâmicas de cada curso junto e as outras atividades do evento proporcionaram boas atrações para os visitantes. Definir horários para essas atrações e divulgá-los no site do evento irá facilitar a organização da logística do evento. Estabelecer os horários de início das trilhas ajudará as escolas a organizarem suas vindas para aproveitarem melhor o evento. Uma trilha de aproximadamente 2h por período permitirá uma melhor circulação pelo campus. Além disso, iniciar a trilha às 10h e 14h permite que um número suficiente de visitantes esteja presente para a trilha. Além da trilha das dinâmicas, é importar definir atividades para a visitação livre, caso o visitante não chegue a tempo do início da trilha. A visitação livre deve ser possível em qualquer período e é importante principalmente para famílias ou grupos melhores que chegam aleatoriamente ao longo do dia. Nessa definição de atrações, é importante também estabelecer e informar o horário de almoço para a equipe de monitores.
+
+## Aumento das atrações
+
+A visitação nos laborórios de pesquisa e de extenão pode ser mais explorada. Isso proporciona mais opções para o visitante ao mesmo tempo que ajuda divulgar ainda mais as atividades desenvolvidas na FT. A apresentação dos laboratórios pode ser feita com a ajuda de pós-graduandos e de bolsistas de iniciação científica.
+
+## Documentação financeira 
+
+O pagamento de diárias para os monitores exigiu um aprendizado do setor financeiro da FT, dado o número grande de pedidos simultâneos. Para o processo de pagamento, eram necessários os seguintes documentos (em formato PDF): (a) planilha com as informações (Nome completo; CPF; Número de matrícula; Dados bancários; Valores); (b) prospecto do evento; (c) atestado de matrícula emitido pela DAC, referente ao período letivo em curso;  (d) comprovante de endereço  (pode ser utilizada a declaração firmada pelo próprio interessado, nos termos da Lei Federal nº 7.115/83); (e) informação do interessado indicando o banco, agência e nº da conta corrente em que será creditado o pagamento.  
+
+Percebemos que o processo de envio de documentos foi facilitado criando-se um Google Forms para obter as informações para (a), o atestado de matrícula e o comprovante de endereço.  Como comprovante de endereço vimos que é mais fácil os alunos enviarem um documento com o seguinte conteúdo, assinado digitalmente:
+
+_________________________________________
+DECLARAÇÃO DE RESIDÊNCIA
+
+
+Eu,__________________________________________________________ _________________, CPF nº _________________________ RG nº __________________ Órgão Exped. ____________, telefone (_____)___________________, na falta de documentos para comprovação de residência, em conformidade com o disposto na Lei 7.115, de 29 de agosto de 1983, DECLARO para os devidos fins, sob penas da Lei, ser residente e domiciliado no endereço ____________________________________________ _________________________________________________________________________.
+Por ser verdade, firmo a presente declaração para que produza os efeitos legais, ciente de que a falsidade de seu conteúdo pode implicar na imputação de sanções civis, administrativas, bem como na sanção penal prevista no art. 299 do Código Penal, conforme transcrição abaixo: 
+
+“Art. 299 – Omitir, em documento público ou particular, declaração que nele deveria constar, ou nele inserir ou fazer inserir declaração falsa ou diversa da que devia ser escrita, com o fim de prejudicar direito, criar obrigação ou alterar a verdade sobre o fato juridicamente relevante. Pena: reclusão de 1 (um) a 5 (cinco) anos e multa, se o documento é público e reclusão de 1 (um) a 3 (três) anos, se o documento é particular”
+
+
+_____________________________, _________/_________/__________.
+
+Local                                                Data
+
+
+_____________________.
+
+Assinatura do Declarante
+_________________________________________
+
+O endereço informado deve ser o mesmo cadastrado na DAC.
+
+Para a informação bancária do aluno, a forma mais eficiente foi por meio do envio, pelo aluno, para o setor financeiro de um email com o seguinte conteúdo:
+
+_________________________________________
+Esses são os dados da minha conta:
+
+Banco:__________________.
+
+Agência: _________________.
+
+Conta: _________________.
+
+Nome do aluno
+
+_________________________________________
+
+Finalmente, os documentos (c), (d) e (e) devem ser agrupados num único arquivo PDF para facilitar a inserção no sistema de pagamento da Unicamp.
+
+## Melhorias no campus
+
+A constante melhoria do campus, seja ela para a visitação da comunidade externa, seja ela para o uso da comunidade de interna, deve ser sempre buscado para Diretoria da FT e pela prefeitura do Campus. Durante a organização do FT de Portas Abertas, notamos vários do campus que poderiam ser melhorados. Exemplos de 3 desses pontos são mostrados a seguir.
+
+
+::: {.centerText}
+![Limpeza das paredes externas e remoção de lixo. As setas em cor vermelho destacam a necessidade da limpeza e pintura das paredes.](melhoria-1.png){width=60%}
+:::
+
+::: {.centerText}
+![Remoção de itens inutilizados.](melhoria-2.png){width=60%}
+:::
+
+
+::: {.centerText}
+![Limpeza de parede e revitalização de placas informativas do campus.](melhoria-3.png){width=60%}
+:::
+
+Em relação às placas informativas, a comissão elaborou novos designs para elas e apresentou para prefeitura do campus. No entanto, as modificações não foram realizadas e desconhecemos a razão.
+
+::: {.centerText}
+![Sugestão da comissão para as novas placas informativas do campus.](placas.png){width=60%}
+:::
+
+## Maior engajamento
+
+A FT de Portas Abertas beneficia a própria FT. Uma maior adesão de professores e direção nos dias do evento aproximaria a comunidade interna da comunidade externa. 
