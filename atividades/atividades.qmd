@@ -2,3 +2,20 @@
 title: Atividades
 ---
 
+A FT de Portas Abertas 2025 foi dimensionada em um formato de atividades que evidenciem a integração dos conhecimentos associados aos cursos oferecidos pela FT. A FT é uma unidade da Unicamp que possui um corpo docente multidisciplinar que dá suporte aos cursos de graduação. Esses cursos têm relação com áreas muito relevantes atualmente: Ambiente, Computação, Telecomunicações e Transportes. Essa característica da FT é peculiar e permite uma integração de conhecimentos entre os alunos dos diversos cursos e um compartilhamento de saberes nas diferentes áreas.
+
+Assim, como uma forma de atrair os visitantes, optamos por realizar a apresentação  dos cursos de forma indireta, a partir de um tema que abrange todas essas áreas - Cidades Inteligentes. O tema Cidades Inteligentes foi escolhido para demonstrar como os cursos oferecidos pela FT estão diretamente conectados aos desafios e soluções que buscam melhorar a qualidade de vida nas cidades modernas. Esse enfoque permite integrar as diferentes áreas de formação da faculdade em um contexto interdisciplinar, alinhado aos avanços tecnológicos e às demandas urbanas emergentes.
+
+Os cursos de Tecnologia em Análise e Desenvolvimento de Sistemas e Bacharelado em Sistemas de Informação desempenham um papel fundamental no desenvolvimento de sistemas de informação, aplicações de inteligência artificial, engenharia de software e análise de dados, essenciais para a gestão e operação de infraestruturas inteligentes. Na área ambiental, os cursos de Engenharia Ambiental e Tecnologia em Saneamento Ambiental contribuem com soluções sustentáveis para minimizar impactos ambientais, um aspecto crucial para o desenvolvimento urbano sustentável. A Engenharia de Transportes oferece conhecimentos estratégicos para a mobilidade urbana e a logística eficiente, abrangendo desde o planejamento de transporte público até a otimização de rotas em grandes centros urbanos. Por fim, a Engenharia de Telecomunicações viabiliza a infraestrutura de redes conectadas e seguras, incluindo sistemas de monitoramento em tempo real e soluções de comunicação integradas, que conectam serviços e a população de maneira eficaz.
+
+Ao adotar a temática Cidades Inteligentes, a FT reforça a conexão entre seus cursos e as demandas concretas da sociedade, evidenciando a relevância de suas áreas de conhecimento para um desenvolvimento urbano mais sustentável, eficiente e tecnologicamente avançado.
+
+A apresentação e a propaganda dos cursos da FT será feita de forma contextualizada, por meio de dinâmicas realizadas com os visitantes. Essas dinâmicas, uma por área e com 25 min de duração cada, abordarão a temática das cidades inteligentes nos seus diferentes aspectos.
+Os visitantes seriam conduzidos por uma trilha para essas dinâmicas por meio de percursos contendo atividades e duração pré-determinadas. Alunos de graduação conduzirão grupos de 30 visitantes para as salas de aula/laboratórios onde as dinâmicas serão realizadas. Considerando um tempo de 5 min de deslocamento entre as dinâmicas e uma apresentação geral de 10 min no início da trilha, o tempo estimado para a trilha seria de 2h e 15min. Estima-se que 8 grupos de visitantes poderão completar a trilha num período de 4 h, o que totaliza 240 visitantes por período e aproximadamente 1000 visitantes nos dois dias de FT de Portas Abertas. Esse número corresponde aproximadamente 66% do total de alunos matriculados no curso da FT em 2023, segundo o [Anuário Estatístico 2024](https://aeplan.unicamp.br/wp-content/uploads/sites/5/2024/05/anuario-2024.pdf) da Unicamp (pag. 39).
+
+
+::: {.centerText}
+![Representação esquemática da trilha no evento FT de Portas Abertas. Os quadrados representam as atividades (recepção, apresentação geral e dinâmicas), as setas indicam o sentido a ser percorrido, o número dentro dos quadrados representa a duração de cada atividade e o número acima das setas mostra o tempo de trânsito entre as atividades.](dinamica.png){width=70%}
+:::
+
+

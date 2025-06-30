@@ -3,7 +3,7 @@ project:
 
 book:
   title: "FT de Portas Abertas 2025"
-  author: "Comissão"
+  author: "Comissão organizadora"
   date: "01/03/2025"
   chapters:
     - index.qmd
