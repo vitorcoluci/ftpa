@@ -1,19 +1,125 @@
 ---
-title: Metodologia
+title: Agradecimentos
 ---
 
-A metodologia de autoavaliação do Programa de Pós-Graduação em Tecnologia (PPGT) é estruturada para reflet
+Gostaríamos de agradecer os professores e funcionários da FT que contribuíram direta ou indiretamente para o FT de Portas Abertas. Um agradecimento especial também aos alunos listados a seguir que, sem a participação deles, o evento não seria possível.
 
+1. 	Adriano Baumgarte Bassani Filho
+2. 	Amanda Feldman
+3. 	Ana Carolina Cunha Caracini
+4. 	Ana Clara Jesus de Andrade
+5. 	Ana Júlia de Oliveira Gotto
+6. 	Ana Júlia Pichirilo Mautner
+7. 	Ana Julia Santos
+8. 	Ana Julia Villas Boas
+9. 	Andrey Moura Gouvêa
+10. Andrey Santana Castilho
+11. Anna Julia Marinho Barbosa
+12. Arthur Luiz Lopes Araujo
+13. Auriane Nayara da Silva
+14. Bárbara Helóra Nigra Táparo
+15. Beatriz Amaral
+16. Beatriz Cristina de Oliveira Jatobá
+17. Beatriz Santos de Melloi
+18. Bianca Silva da Nobrega
+19. Bruno Ribeiro Silva
+20. Camila Almeida Champi
+21. Carlos Daniel Nunes de Abreu
+22. Caroline Sorg
+23. Celio Benhami Junior
+24. Cicero Eduardo Campos Leite Bispo
+25. Daniel Matias de Sousa Nunes
+26. Daniel Riquetto da Silva
+27. Eduarda Ortiz Almeida
+28. Erick Gabriel Afonso Mantoan
+29. Ester Souza Gomes
+30. Felipe de Souza Conde
+31. Fernanda Souza Pedreira
+32. Fernando Frias Salim 
+33. Gabriel Abdalla Navarro
+34. Gabriel Cerqueira Pires
+35. Gabriel Gaudio Saraiva
+36. Gabriela Maura Rodrigues
+37. Gabriela Nogueira
+38. Giovanni da Silva Virginio Brandão
+39. Henrique de Toledo Franca Bueno
+40. Hibrael Zonta de Carvalho
+41. Hugo Alexandre Strassa
+42. Hugo de Paula Oliveira
+43. Hugo Gomes de La Fuente
+44. Isabella Alves de Almeida
+45. Isadora Lacerda de Oliveira
+46. Isadora Morcelli Loureiro
+47. Ísis G. Vasconcelos
+48. Jamily Macedo Moreira
+49. Jhenyffer Cristina dos Santos
+50. João Guilherme Fernandes Frota
+51. João Vitor Tito da Paixão
+52. José Henrique Lessa Vieira
+53. Joyce Soares Martins
+54. Juan Carlos Rezende Canha
+55. Julia Coqueiro Ho
+56. Julia Fernandes dos Santos
+57. Kahlil Campos
+58. ⁠Karol Heydy Yantas Espinoza
+59. Laira Maria Carvalho Santos
+60. Larissa Helena Franceli
+61. Leonardo Basset Figueiredo Pereira
+62. Leonardo Bonfá Schroeder
+63. Leonardo Hideaki Sasaki Kopczynski
+64. Lívia Fernandes Dalfré
+65. Lorena Testa Avelar
+66. Lucas de Jesus Mota Ferreira
+67. Lucas de Oliveira Lopes Cardoso
+68. Lucas Gabriel Hernandez Nogueira
+69. Lucas Martins Paiva
+70. Luiz Gustavo Esperidião de São José
+71. Manuela Lima Leite da Cruz
+72. Marcos Revejes Pedroso
+73. Maria Clara Marsola Paulini
+74. Maria Eduarda Cerqueira Santos
+75. Maria Eduarda de Souza Gomes
+76. Maria Eduarda Rodrigues dos Santos
+77. ⁠Maria Fernanda Dias Alves
+78. Maria Laura Alves de Souza Cruvinel
+79. Maria Stella Dias Barbosa
+80. Martim Rudge Machado
+81. Matheus Lima de Oliveira
+82. Matheus Placideli Reghini Scola
+83. Matheus Rafael Dos Santos Nascimento
+84. Mirella dos Santos Nascimento
+85. Murilo Bertolini Montoni
+86. Murilo de Carvalho Ximenes
+87. Nasser Nasser Fares
+88. Natalia Martins de Paiva
+89. Nina de Oliveira Venell
+90. Otavio Andrade Freiras Moraes
+91. Pamela Anny Marques da Silva
+92. Paulo Vitor Lopes Lima
+93. Pedro dos Santos Conceição
+94. Pedro Henrique Skemas Gomes de Britto
+95. Pedro Henrique Souza dos Santos
+96. Pedro Luiz de Jesus da Silva Vieira
+97. Phillipi Poloni
+98. Rafael Henrique Pereira de Souza
+99. Raissa Toassa Martinelli
+100. Rebecca Vasques
+101. Samir de Souza Francisco
+102. Samuel Germiniani
+103. Samuel Lucena Silva e Costa
+104. Sergio Carlos de Sousa Gregorio Junior
+105. Sofia Carnevalli Lopes
+106. Sofia Helena Sato
+107. Sofia Perboni Domingos
+108. Tácio Mendes dos Santos Felix
+109. Talita Lima
+110. Thaís Araújo Alcântara
+111. Thiago Camargo de Almeida
+112. Victor Gavazzi
+113. Vinicius Eiki Venâncio Tanizaki
+114. Vinícius Iutaka Nogueira Fujioka
+115. Vithoria Neves Garcia
+116. Vitor Nogueira de Toledo
+117. Yngrid Lohane Gouveia Lombelo
+118. Yuri Santana Costa
 
-## O Programa de Pós-Graduação em Tecnologia {#programa}
-
-Segundo o Planejamento Estratégico revisado do Programa de
-Pós-Gr
-
-
-carro
-
-Thiago Camargo de Almeida 255389
-Pedro Henrique Skemas Gomes de Britto 174267
-Andrey Santana Castilho 231440
-Maria Stella Dias Barbosa 156601
