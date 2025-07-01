@@ -81,6 +81,14 @@ Comissão organizadora.
 
 ## Divulgação
 
+
+### Folder
+
+::: {.centerText}
+![](folder-1.jpg){width=90%}
+![](folder-2.jpg){width=90%}
+:::
+
 ### Site
 
 [site](https://wordpress.ft.unicamp.br/ftpa/)
@@ -119,12 +127,17 @@ Será um prazer receber vocês aqui na FT/Unicamp!
 Comissão organizadora.
 ````
 
+
+### Jornais
+
 [Agenda Unicamp](https://jornal.unicamp.br/agenda/2025/05/06/faculdade-de-tecnologia-realiza-a-edicao-2025-do-evento-ft-de-portas-abertas/#:~:text=Nos%20dias%2013%20e%2014%20de%20junho%20de%202025%2C%20a,e%20tecnol%C3%B3gica%20oferecidas%20pela%20institui%C3%A7%C3%A3o.)
 
 [Gazeta de Limeira](https://instagram.com/p/DJZ7ulQBLoF/)
 
 [Inova](https://www.inova.unicamp.br/2025/06/inova-unicamp-apresenta-programa-de-empreendedorismo-para-jovens-durante-o-ft-de-portas-abertas/)
 
+[Inova antes](https://www.inova.unicamp.br/2025/05/inova-unicamp-estara-no-ft-de-portas-abertas-em-limeira/
+)
 
 
 
