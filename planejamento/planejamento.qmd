@@ -2,11 +2,11 @@
 title: Planejamento
 ---
 
-O planejamento do FT de Portas Abertas envolveu várias etapas, detalhadas a seguir.
+O planejamento e a execução do FT de Portas Abertas envolveu várias etapas, detalhadas a seguir.
 
 ## Dinâmicas
 
-A apresentação dos cursos da FT foi feita por meio de Dinâmicas, uma para cada área da graduação da FT:
+A apresentação dos cursos da FT foi feita por meio de *Dinâmicas*, uma para cada área da graduação da FT:
 
 - **Dinâmica 1 - Computação**: Ilustração da ideia de algoritmo, o conceito básico da computação. Isso será feito apresentando alguns algoritmos usados para controlar o movimento de robôs feitos com Lego. Os visitantes poderão interagir com os robôs, modificando partes dos algoritmos e percebendo, em tempo real, os efeitos dessas modificações no movimento. Tópicos como lógica e linguagem de programação serão abordados.
 
