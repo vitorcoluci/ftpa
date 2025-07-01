@@ -30,8 +30,7 @@ for i in range(num_alunos):
     aluno = str(alunos.at[i,"Nome"])
     aluno_junto = "".join(aluno.split())
     # coleta primeira letra
-
-    primeira_letra = 
+    primeira_letra = aluno_junto[0].lower()
     ra = str(alunos.at[i,"RA"])
     texto=r"\documentclass[12pt,landscape]{{article}} \input{{sctruct.tex}} \begin{{document}} \pagestyle{{empty}} \para{{{0}}}{{{1}}} \end{{document}} ".format(aluno,ra)
 
@@ -82,3 +81,6 @@ for i in range(num_alunos):
     print("E-mail enviado com sucesso para ",aluno," !")
 
 servidor.quit()
+
+# junta todos os certificados num unico arquivo para impressao
+b = subprocess.run('qpdf --empty --pages ./*.pdf -- ./certificados-FTPA.pdf',shell=True)	
