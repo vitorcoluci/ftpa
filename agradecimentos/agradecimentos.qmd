@@ -123,3 +123,6 @@ Gostaríamos de agradecer os professores e funcionários da FT que contribuíram
 117. Yngrid Lohane Gouveia Lombelo
 118. Yuri Santana Costa
 
+::: {.centerText}
+![Parte da equipe do FT de Portas Abertas 2025.](foto-equipe.jpg){width=80%}
+:::
