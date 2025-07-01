@@ -22,8 +22,6 @@ Guiados por monitores, os visitantes eram levados para essas dinâmicas por meio
 ![Representação esquemática em planta da FT, contendo o sentido do percurso dos visitantes. As setas contínuas em preto, cinza (percurso da Computação), verde (percurso Eng. de Transportes), azul (percurso Eng. Ambiental), vermelho (percurso Eng. de Telecomunicações) e amarelo (percurso final) indicam a trilha. O nome dos prédios principais e do estacionamento estão identificados em cor branca e tarja preta.](percurso-trilhas.png){width=60%}
 :::
 
-
-
 ## Atrações
 
 Além das dinâmicas, diversas atrações (atividades) foram planejadas:
