@@ -4,17 +4,56 @@ title: Planejamento
 
 O planejamento e a execução do FT de Portas Abertas envolveu várias etapas, detalhadas a seguir.
 
+## Palestra de Abertura
+
+Os visitantes foram recepcionados com uma palestra de abertura que trouxe informações sobre a Unicamp, sobre a FT, sobre formas 
+de ingresso e de permanência estudantil na Universidade e sobre as atrações do FT de Portas Abertas.
+A [palestra](FTPA-palestra-abertura.pdf) foi proferida pelo Prof. Yuri Meyer para vários grupos de visitantes.
+
+::: {.centerText}
+![Prof. Yuri levando informações para os visitantes na palestra de abertura.](palestra-abertura.jpg){width=60%}
+:::
+
 ## Dinâmicas
 
-A apresentação dos cursos da FT foi feita por meio de *Dinâmicas*, uma para cada área da graduação da FT:
+A apresentação dos cursos da FT foi feita por meio de *Dinâmicas*, uma para cada área da graduação da FT. 
+As dinâmicas foram organizadas por docentes, funcionários e alunos.
 
 - **Dinâmica 1 - Computação**: Ilustração da ideia de algoritmo, o conceito básico da computação. Isso será feito apresentando alguns algoritmos usados para controlar o movimento de robôs feitos com Lego. Os visitantes poderão interagir com os robôs, modificando partes dos algoritmos e percebendo, em tempo real, os efeitos dessas modificações no movimento. Tópicos como lógica e linguagem de programação serão abordados.
 
+::: {.centerText}
+![Dinâmica da área de computação, preparada pela liga de Robótica da FT.](dinamica-computacao.jpg){width=60%}
+:::
+
 - **Dinâmica 2 - Transportes**: A importância do estudo do relevo para a construção de rodovias e ferrovias será trabalhada nessa dinâmica. Para isso, os visitantes irão até o Laboratório de Solos interagir com um simulador de relevo e de suas mudanças em tempo real (sandbox). Irão também participar de um quiz interativo sobre infraestrutura rodoviária.  Após o final da trilha, os visitantes interessados no curso de Engenharia de Transportes poderão ainda ver outras atrações opcionais, como uma demonstração de drones aplicados ao monitoramento e planejamento de transportes.
+
+::: {.centerText}
+![Dinâmica da área de transportes.](dinamica-transportes.jpg){width=60%}
+:::
 
 - **Dinâmica 3 - Ambiente**: Os participantes terão a oportunidade de observar organismos aquáticos e terrestres que atuam como indicadores ambientais, fornecendo informações essenciais sobre o nível de estresse ecológico na água e no solo.
 
+::: {.centerText}
+![Dinâmica da área ambiental.](dinamica-ambiental.jpg){width=60%}
+:::
+
 - **Dinâmica 4 - Telecomunicações**: A dinâmica irá abranger grandes áreas do curso de Telecomunicações como eletromagnetismo, circuitos elétricos, redes de comunicações, processamento de sinais e programação. Ao chegarem no laboratório LK01, os visitantes assistirão uma explicação sobre as áreas do curso e possibilidades de atuação. Em seguida, verão como pode ser feito o monitoramento de veículos que entram no campus, um importante processo em cidades inteligentes. Finalmente, passarão pelo laboratório LK02 onde poderão ver fenômenos relacionados às áreas de radiofrequência e antenas. Ao final da trilha, os visitantes interessados no curso de Engenharia de Telecomunicações poderão ainda ver outras duas atrações opcionais: utilização de óculos de realidade virtual para visualizar a transmissão de holografia em redes de alta velocidade (futuro 6G) e outra em que observarão como a própria luz visível pode ser usada para transmitir dados de forma sem fio.
+
+::: {.centerText}
+![Dinâmica da área de telecomunicações.](dinamica-telecom.jpg){width=60%}
+:::
+
+As dinâmicas foram muito interativas e despertaram muito interesse nos visitantes.
+
+::: {.centerText}
+![](exemplo-atividade-telecom-1.jpg){width=60%}
+![Visitantes no FT de Portas Abertas.](exemplo-telecom-2.jpg){width=60%}
+:::
+
+{{< video video-telecom.mov width="400" height="300" >}}
+
+{{< video depoimento-1.mp4 width="400" height="300" >}}
+
 
 Guiados por monitores, os visitantes eram levados para essas dinâmicas por meio de uma trilha ilustrada na figura a seguir.
 
@@ -22,42 +61,46 @@ Guiados por monitores, os visitantes eram levados para essas dinâmicas por meio
 ![Representação esquemática em planta da FT, contendo o sentido do percurso dos visitantes. As setas contínuas em preto, cinza (percurso da Computação), verde (percurso Eng. de Transportes), azul (percurso Eng. Ambiental), vermelho (percurso Eng. de Telecomunicações) e amarelo (percurso final) indicam a trilha. O nome dos prédios principais e do estacionamento estão identificados em cor branca e tarja preta.](percurso-trilhas.png){width=60%}
 :::
 
+
 ## Atrações
 
-Além das dinâmicas, diversas atrações (atividades) foram planejadas:
+Além das dinâmicas, diversas atrações (atividades) foram realizadas:
 
-- *Algoritmos*: Apresentar o conceito principal de toda a computação e como ele é aplicado na programação de robôs.
-
-- *Drones, relevo e logística*: Como otimizar rotas e entregar produtos de forma mais eficiente ?
-
-- *Gestão da água*: Apresentar  as tecnologias envolvidas remover poluentes da água
-
-- *Redes de Comunicações*: Perceber  como circuitos elétricos, redes de comunicações, processamento de sinais e programação se unem para permitir monitorar o trânsito.
-
-- *FT em Realidade Virtual*: Explorar nosso campus com uma maquete virtual (Autor: Msc. Jhasmani Tito Cruz).
+- *FT em Realidade Virtual*: A atividade mostrou nosso campus aos vistantes por meio de uma maquete virtual. O aplicativo em realidade virtual foi desenvolvido pelo doutorando Jhasmani Tito Cruz.
+O aplicativo usou dados coletados por drone e fornecidos pelo Prof. Vitor Molina.
 
 ::: {.centerText}
 ![](maquete-virtual-1.jpg){width=60%}
 ![](maquete-virtual-2.jpg){width=60%}
-![](maquete-virtual-3.jpg){width=60%}
-:::
-
-- *Iniciação científica*: Conhecer os trabalhos desenvolvidos pelos nossos alunos.
-
-- *Onde estão os nossos formandos ?*: Conversar com alunos que passaram pela FT e estão no mercado de trabalho
-
-- *Organizações estudantis*: Conhecer as organizações estudantis e seus projetos
-
-- *Eu fui !*: Registrar a participação do visitante num estúdio de fotos
-
-::: {.centerText}
-![Fotos com os visitantes.](estudio-1.jpg){width=90%}
+![Aplicativo em realidade virtual que permite passear pelo campus I da Unicamp/Limeira.](maquete-virtual-3.jpg){width=60%}
 :::
 
 ::: {.centerText}
-![Fotos com a equipe de organização.](estudio-2.jpg){width=90%}
+![](RV-1.jpeg){width=60%}
+![Visitantes participando da atividade.](RV-2.jpeg){width=60%}
 :::
 
+- *Iniciação científica*: Trabalhos desenvolvidos por alunos da FT foram expostos no Explora. Os vistantes puderem interagir com nossos alunos.
+
+::: {.centerText}
+![Trabalho de TCC sobre controle de drone por gestos sendo exposto para visitantes.](IC-1.jpg){width=60%}
+:::
+
+- *Onde estão os nossos formandos ?*: A atividade permitiu que os visitantes pudessem conversar com egressos da FT.
+
+- *Organizações estudantis*: Algumas organizações estudantis da FT apresentaram seus projetos.
+
+::: {.centerText}
+![](org-est-1.jpg){width=60%}
+![](org-est-2.jpg){width=60%}
+![](org-est-3.jpg){width=60%}
+![](org-est-4.jpg){width=60%}
+![](org-est-5.jpg){width=60%}
+![Organizações estudantis puderem apresentar seus projetos no FT de Portas Abertas.](org-est-6.jpg){width=60%}
+:::
+
+- *Eu fui !*: A LP04 se transformou num estúdio de fotos onde os vistantes puderam registrar sua participação no evento. Após a foto, um email era encaminhado para o visitante
+contendo a foto tirada e a seguinte mensagem:
 
 ```{}
 Olá !
@@ -76,6 +119,28 @@ em https://www.comvest.unicamp.br/ .
 
 Comissão organizadora.
 ```
+
+A seguir, podemos ver o mural das fotos tiradas no estúdio de fotos.
+
+::: {.centerText}
+![Fotos com os visitantes.](estudio-1.jpg){width=90%}
+:::
+
+::: {.centerText}
+![Fotos com a equipe de organização.](estudio-2.jpg){width=90%}
+:::
+
+- *Eco Edu*: O projeto Eco Edu apresentou suas atividades, principalmente seu projeto de Libras.
+
+::: {.centerText}
+![](visita-ecoedu.jpg){width=90%}
+:::
+
+- *Inova*: A agência Inova da Unicamp montou uma estande no FT de Portas Abertas e apresentou uma palestra para os visitantes, divulgando principalmente o evento ``Inova Jovem''.
+
+::: {.centerText}
+![](participacao-inova.jpg){width=90%}
+:::
 
 ## Divulgação
 
