@@ -9,13 +9,14 @@ book:
     - index.qmd
     - organizacao/organizacao.qmd
     - motivacao/motivacao.qmd
+    - atividades/atividades.qmd
     - planejamento/planejamento.qmd
     - custos/custos.qmd
-    - atividades/atividades.qmd
     - visitantes/visitantes.qmd
     - recomendacoes/recomendacoes.qmd
     - agradecimentos/agradecimentos.qmd
-     
+    - consideracoes/consideracoes.qmd
+    
 format:
   html:
     lang: pt

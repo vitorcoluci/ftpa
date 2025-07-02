@@ -31,9 +31,14 @@ Apesar da divulgação do evento para a diretoria acadêmica do Cotil, a partici
 
 As dinâmicas de cada curso junto e as outras atividades do evento proporcionaram boas atrações para os visitantes. Definir horários para essas atrações e divulgá-los no site do evento irá facilitar a organização da logística do evento. Estabelecer os horários de início das trilhas ajudará as escolas a organizarem suas vindas para aproveitarem melhor o evento. Uma trilha de aproximadamente 2h por período permitirá uma melhor circulação pelo campus. Além disso, iniciar a trilha às 10h e 14h permite que um número suficiente de visitantes esteja presente para a trilha. Além da trilha das dinâmicas, é importar definir atividades para a visitação livre, caso o visitante não chegue a tempo do início da trilha. A visitação livre deve ser possível em qualquer período e é importante principalmente para famílias ou grupos melhores que chegam aleatoriamente ao longo do dia. Nessa definição de atrações, é importante também estabelecer e informar o horário de almoço para a equipe de monitores.
 
+## Logística
+
+O processo de levar os grupos para as dinâmicas foi o mais estressante, uma vez que lidávamos com a incerteza da quantidade de alunos e o momento que chegariam para o evento. Estabelecer horários fixos para o início das trilhas pode ajudar. Ter parte da equipe de logística para atender grupos atrasados para as trilhas pode melhorar a circulação. Adaptar o aplicativo do evento para auxiliar na logística poderá fornecer uma ferramenta de organização.
+
 ## Aumento das atrações
 
-A visitação nos laborórios de pesquisa e de extenão pode ser mais explorada. Isso proporciona mais opções para o visitante ao mesmo tempo que ajuda divulgar ainda mais as atividades desenvolvidas na FT. A apresentação dos laboratórios pode ser feita com a ajuda de pós-graduandos e de bolsistas de iniciação científica.
+A visita nos laborórios de pesquisa e de extenão pode ser mais explorada. Isso proporciona mais opções para o visitante ao mesmo tempo que ajuda divulgar ainda mais as atividades desenvolvidas na FT. A apresentação dos laboratórios pode ser feita com a ajuda de pós-graduandos e de bolsistas de iniciação científica.
+
 
 ## Documentação financeira 
 
@@ -82,8 +87,7 @@ Finalmente, os documentos (c), (d) e (e) devem ser agrupados num único arquivo 
 
 ## Melhorias no campus
 
-A constante melhoria do campus, seja ela para a visitação da comunidade externa, seja ela para o uso da comunidade de interna, deve ser sempre buscado para Diretoria da FT e pela prefeitura do Campus. Durante a organização do FT de Portas Abertas, notamos vários do campus que poderiam ser melhorados. Exemplos de 3 desses pontos são mostrados a seguir.
-
+A constante melhoria do campus, seja ela para a visitação da comunidade externa, seja ela para o uso da comunidade de interna, deve ser sempre buscado pela Diretoria da FT e pela prefeitura do campus. Durante a organização do FT de Portas Abertas, apontamos vários pontos do campus que poderiam ser melhorados. Exemplos de 3 desses pontos são mostrados a seguir.
 
 ::: {.centerText}
 ![Limpeza das paredes externas e remoção de lixo. As setas em cor vermelho destacam a necessidade da limpeza e pintura das paredes.](melhoria-1.png){width=60%}
@@ -93,17 +97,16 @@ A constante melhoria do campus, seja ela para a visitação da comunidade extern
 ![Remoção de itens inutilizados.](melhoria-2.png){width=60%}
 :::
 
-
 ::: {.centerText}
 ![Limpeza de parede e revitalização de placas informativas do campus.](melhoria-3.png){width=60%}
 :::
 
-Em relação às placas informativas, a comissão elaborou novos designs para elas e apresentou para prefeitura do campus. No entanto, as modificações não foram realizadas e desconhecemos a razão.
+Em relação às placas informativas, a comissão elaborou novos designs para elas e apresentou-os para a prefeitura do campus. No entanto, as modificações não foram realizadas.
 
 ::: {.centerText}
 ![Sugestão da comissão para as novas placas informativas do campus.](placas.png){width=60%}
 :::
 
-## Maior engajamento
+## Maior participação da comunidade interna
 
-A FT de Portas Abertas beneficia a própria FT. Uma maior adesão de professores e direção nos dias do evento aproximaria a comunidade interna da comunidade externa. 
+A FT de Portas Abertas beneficia a própria FT. Uma maior adesão de professores e direção nos dias do evento aproximaria mais a comunidade interna da comunidade externa. 

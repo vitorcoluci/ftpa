@@ -1,0 +1,20 @@
+---
+title: Considerações finais
+---
+
+O FT de Portas Abertas cumpriu seu objetivo de apresentar as atividades da FT para a comunidade externa e fornecer uma visão positiva dos cursos de graduação do campus I da Unicamp/Limeira. O aprendizado adquirido e as ideias surgidas com a realização do evento impulsionarão edições futuras melhores.
+
+Acreditamos que satisfação e orgulho foram sentimentos de quem trabalhou no evento. Mais do que prédios e equipamentos, a FT mostrou a sua cara mais importante: as pessoas aqui presentes. A recepção realizada pelos alunos e a atenção dada por eles para os visitantes, seja para os grupos grandes de escolas, seja  para as famílias pequenas, foi surpreendente e exemplar. O entusiasmo em mostrar os laboratórios, explicar os experimentos, organizar a logística foi cativante.
+
+::: {.centerText}
+![](foto-espanto.jpg){width=40%}
+:::
+
+Que essa energia levada aos visitantes se mantenha viva até o próximo FT de Portas Abertas. 
+
+Para finalizar, apresentamos a mensagem de Adolfo Pérez Esquivel^[Adolfo Pérez Esquivel é um ativista argentino dos direitos humanos, nascido em 26 de novembro de 1931, em Buenos Aires. Reconhecido por sua atuação não violenta em defesa da justiça social e dos direitos dos povos da América Latina, recebeu o Prêmio Nobel da Paz em 1980, tornando-se um símbolo internacional da resistência pacífica contra regimes autoritários. Esquivel também é artista plástico, escritor e educador, e continua sendo uma voz ativa em favor da paz, da dignidade humana e da solidariedade entre os povos.] sobre a importância da Educação, enviada especialmente para o FT de Portas Abertas por meio do Prof. Yuri Meyer.
+
+{{< video video-adolfo-perez.mp4 width="300" height="400" >}}
+
+
+

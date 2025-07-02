@@ -1,5 +1,5 @@
 ---
-title: Planejamento
+title: Evento
 ---
 
 O planejamento e a execução do FT de Portas Abertas envolveu várias etapas, detalhadas a seguir.
@@ -40,19 +40,22 @@ As dinâmicas foram organizadas por docentes, funcionários e alunos.
 - **Dinâmica 4 - Telecomunicações**: A dinâmica irá abranger grandes áreas do curso de Telecomunicações como eletromagnetismo, circuitos elétricos, redes de comunicações, processamento de sinais e programação. Ao chegarem no laboratório LK01, os visitantes assistirão uma explicação sobre as áreas do curso e possibilidades de atuação. Em seguida, verão como pode ser feito o monitoramento de veículos que entram no campus, um importante processo em cidades inteligentes. Finalmente, passarão pelo laboratório LK02 onde poderão ver fenômenos relacionados às áreas de radiofrequência e antenas. Ao final da trilha, os visitantes interessados no curso de Engenharia de Telecomunicações poderão ainda ver outras duas atrações opcionais: utilização de óculos de realidade virtual para visualizar a transmissão de holografia em redes de alta velocidade (futuro 6G) e outra em que observarão como a própria luz visível pode ser usada para transmitir dados de forma sem fio.
 
 ::: {.centerText}
-![Dinâmica da área de telecomunicações.](dinamica-telecom.jpg){width=60%}
+![Dinâmica da área de telecomunicações.](dinamica-telecom.jpg){width=80%}
 :::
 
 As dinâmicas foram muito interativas e despertaram muito interesse nos visitantes.
 
 ::: {.centerText}
-![](exemplo-atividade-telecom-1.jpg){width=60%}
-![Visitantes no FT de Portas Abertas.](exemplo-telecom-2.jpg){width=60%}
+![Visitantes no FT de Portas Abertas assistindo demonstração de transmissão de som usando laser.](exemplo-atividade-telecom-1.jpg){width=60%}
 :::
 
-{{< video video-telecom.mov width="400" height="300" >}}
+::: {.centerText}
+![Monitora explicando demonstração.](exemplo-telecom-2.jpg){width=60%}
+:::
 
-{{< video depoimento-1.mp4 width="400" height="300" >}}
+O vídeo a seguir mostra a visitação no laboratório de Telecomunicações.
+
+{{< video video-telecom.mov width="400" height="300" >}}
 
 
 Guiados por monitores, os visitantes eram levados para essas dinâmicas por meio de uma trilha ilustrada na figura a seguir.
@@ -76,14 +79,13 @@ O aplicativo usou dados coletados por drone e fornecidos pelo Prof. Vitor Molina
 :::
 
 ::: {.centerText}
-![](RV-1.jpeg){width=60%}
-![Visitantes participando da atividade.](RV-2.jpeg){width=60%}
+![Visitantes participando da atividade com realidade virtual.](RV-2.jpeg){width=80%}
 :::
 
 - *Iniciação científica*: Trabalhos desenvolvidos por alunos da FT foram expostos no Explora. Os vistantes puderem interagir com nossos alunos.
 
 ::: {.centerText}
-![Trabalho de TCC sobre controle de drone por gestos sendo exposto para visitantes.](IC-1.jpg){width=60%}
+![Trabalho de TCC sobre controle de drone por gestos sendo exposto para visitantes.](IC-1.jpeg){width=80%}
 :::
 
 - *Onde estão os nossos formandos ?*: A atividade permitiu que os visitantes pudessem conversar com egressos da FT.
@@ -91,12 +93,12 @@ O aplicativo usou dados coletados por drone e fornecidos pelo Prof. Vitor Molina
 - *Organizações estudantis*: Algumas organizações estudantis da FT apresentaram seus projetos.
 
 ::: {.centerText}
-![](org-est-1.jpg){width=60%}
-![](org-est-2.jpg){width=60%}
-![](org-est-3.jpg){width=60%}
-![](org-est-4.jpg){width=60%}
-![](org-est-5.jpg){width=60%}
-![Organizações estudantis puderem apresentar seus projetos no FT de Portas Abertas.](org-est-6.jpg){width=60%}
+![](org-est-1.jpg){width=40%}
+![](org-est-2.jpg){width=40%}
+![](org-est-3.jpg){width=40%}
+![](org-est-4.jpg){width=40%}
+![](org-est-5.jpg){width=40%}
+![Organizações estudantis puderem apresentar seus projetos no FT de Portas Abertas.](org-est-6.jpg){width=40%}
 :::
 
 - *Eu fui !*: A LP04 se transformou num estúdio de fotos onde os vistantes puderam registrar sua participação no evento. Após a foto, um email era encaminhado para o visitante
@@ -133,23 +135,36 @@ A seguir, podemos ver o mural das fotos tiradas no estúdio de fotos.
 - *Eco Edu*: O projeto Eco Edu apresentou suas atividades, principalmente seu projeto de Libras.
 
 ::: {.centerText}
-![](visita-ecoedu.jpg){width=90%}
+![](visita-ecoedu.jpg){width=70%}
 :::
 
-- *Inova*: A agência Inova da Unicamp montou uma estande no FT de Portas Abertas e apresentou uma palestra para os visitantes, divulgando principalmente o evento ``Inova Jovem''.
+- *Inova*: A agência Inova da Unicamp montou uma estande no FT de Portas Abertas e apresentou uma palestra para os visitantes, divulgando principalmente o evento "Inova Jovem".
 
 ::: {.centerText}
-![](participacao-inova.jpg){width=90%}
-![](palestra-inova.jpg){width=90%}
+![](participacao-inova.jpg){width=50%}
+![](palestra-inova.jpg){width=80%}
 :::
 
 A Inova publicou uma matéria sobre sua participação no FT de Portas Abertas que pode ser vista [aqui](https://www.inova.unicamp.br/2025/06/inova-unicamp-apresenta-programa-de-empreendedorismo-para-jovens-durante-o-ft-de-portas-abertas/).
 
+- *Equipe Unicamp Racing Team 1600*: A equipe da FT que compete na fórmula 1600 apresentou seu projeto durante o evento.
 
+::: {.centerText}
+![](exposicao-carro.jpg){width=70%}
+:::
+
+- *Limeteria*: A equipe da Limeteria levou música para os dias do evento e alegrou os visitantes.
+
+::: {.centerText}
+![](limeteria.jpg){width=70%}
+:::
 ## Divulgação
 
+ A divulgação do evento foi realizada em diversos meios.
 
 ### Folder
+
+Um folder foi elaborado para ser entregue aos visitantes nos dias do evento. O folder contém informações sobre a FT e sobre os cursos de graduação.
 
 ::: {.centerText}
 ![](folder-1.jpg){width=90%}
@@ -158,24 +173,25 @@ A Inova publicou uma matéria sobre sua participação no FT de Portas Abertas q
 
 ### Site
 
-[site](https://wordpress.ft.unicamp.br/ftpa/)
-
+As principais informações sobre o evento foram disponibilizadas no [site](https://wordpress.ft.unicamp.br/ftpa/) do evento. Informações sobre os cursos, formas de inscrição dos visitantes, FAQ e a descrição das atividades do evento foram colocadas no site.
 
 
 ### Escolas
 
-::: {.centerText}
-![Distribuição das escolas convidadas por cidade.](escolas-convite-500.png){width=90%}
-:::
-
+Um convite foi enviado por email para aproximadamente 500 escolas de diversas cidades. Informações sobre o evento e uma carta-convite do diretor da FT foram apresentadas no email.
 
 ::: {.centerText}
-![Localização das escolas convidadas. O tamanho do círculo é proporcional ao número de escolas convidadas na cidade.](mapa-escolas.jpg){width=90%}
+![Distribuição das escolas convidadas por cidade.](escolas-convite-500.png){width=100%}
 :::
 
+::: {.centerText}
+![Localização das escolas convidadas. O tamanho do círculo é proporcional ao número de escolas convidadas na cidade.](mapa-escolas.jpg){width=100%}
+:::
+
+A mensagem enviada para as escolas é apresentada a seguir.
 
 ```{}
-Prezado(a) Dirertor(a) Fulano.
+Prezado(a) Diretor(a) Fulano.
 
 A Faculdade de Tecnologia da UNICAMP realizará o evento FT de Portas Abertas nos dias 13 e 14 de Junho em Limeira-SP.
 
@@ -194,22 +210,15 @@ Será um prazer receber vocês aqui na FT/Unicamp!
 Comissão organizadora.
 ````
 
-
 ### Jornais
 
-[Agenda Unicamp](https://jornal.unicamp.br/agenda/2025/05/06/faculdade-de-tecnologia-realiza-a-edicao-2025-do-evento-ft-de-portas-abertas/#:~:text=Nos%20dias%2013%20e%2014%20de%20junho%20de%202025%2C%20a,e%20tecnol%C3%B3gica%20oferecidas%20pela%20institui%C3%A7%C3%A3o.)
-
-[Gazeta de Limeira](https://instagram.com/p/DJZ7ulQBLoF/)
-
-
-[Inova antes](https://www.inova.unicamp.br/2025/05/inova-unicamp-estara-no-ft-de-portas-abertas-em-limeira/
-)
-
-
+O FT de Portas Abertas foi divulgado também no Jornal da Unicamp na seção [Agenda Unicamp](https://jornal.unicamp.br/agenda/2025/05/06/faculdade-de-tecnologia-realiza-a-edicao-2025-do-evento-ft-de-portas-abertas/#:~:text=Nos%20dias%2013%20e%2014%20de%20junho%20de%202025%2C%20a,e%20tecnol%C3%B3gica%20oferecidas%20pela%20institui%C3%A7%C3%A3o.), na [Gazeta de Limeira](https://instagram.com/p/DJZ7ulQBLoF/) e também no site da [Inova](https://www.inova.unicamp.br/2025/05/inova-unicamp-estara-no-ft-de-portas-abertas-em-limeira/
+).
 
 
 ## Sinalização 
 
+Diversos banners foram confeccionados e distribuídos na FT para facilitar a localização das atrações.
 
 ::: {.centerText}
 ![Localização de banners (tamanho A0) de divulgação do evento nas portarias do campus I.](banners-1.png){width=80%}
@@ -225,19 +234,13 @@ Comissão organizadora.
 
 ## Mídias digitais
 
-[instagram](https://www.instagram.com/ftportasabertas/)
+Um [Instagram](https://www.instagram.com/ftportasabertas/) para o evento foi produzido pelos alunos, contendo informações sobre as atrações e sobre os cursos da FT. Conteúdos também foram adicionados em outras contas de Instagram da FT como, por exemplo, o [convite para o evento](https://www.instagram.com/reel/DKZt6T_xspD/). O formato desse convite foi depois [reproduzido para um evento de Extensão do IFGW/Unicamp](https://www.instagram.com/p/DKk4qxtSHpM/?hl=pt).
 
 
 ## Aplicativo
 
-Acesse aqui o App do FT de Portas Abertas para te ajudar na localização no Campus e para informações sobre os nossos cursos (Autor: Prof. Ulisses Martins Dias)
+O FT de Portas Abertas também contou com um aplicativo para celular que mostrava o mapa do campus, com indicações para as atrações, com informações sobre os cursos e com a localização em tempo real do visitante. O aplicativo pode ser usado na [Web](https://diversos-af313.web.app/ftpa/) ou em celulares Android ([download aqui](http://wordpress.ft.unicamp.br/ftpa/wp-content/uploads/sites/92/2025/06/ftpa_map.apk)). O aplicativo foi desenvolvido pelo Prof. Ulisses Martins Dias, com dados obtidos por um drone fornecidos pelo Prof. Vitor Molina.
 
 ::: {.centerText}
-![](app-mapa-Ulisses.jpg){width=90%}
+![Tela do aplicativo do FT de Portas Abertas. Uma foto aérea da FT é sobreposta ao mapa da FT. Locais das atrações são indicados em roxo. O ícone no canto superior direito direciona para informações dos cursos da FT.](app-mapa-Ulisses.jpg){width=110%}
 :::
-
-
-
-[App](https://diversos-af313.web.app/ftpa/)
-
-[App](http://wordpress.ft.unicamp.br/ftpa/wp-content/uploads/sites/92/2025/06/ftpa_map.apk)

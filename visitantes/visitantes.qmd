@@ -1,10 +1,10 @@
 ---
-title: Escolas visitantes
+title: Visitantes
 ---
 
-As escolas que vieram para o FT de Portas Abertas foram:
+## Escolas
 
-
+Escolas de nove cidades participaram do FT de Portas Abertas,trazendo em torno de 400 alunos:
 
 1. Colégio Jandyra Antunes Rosa, Limeira (15 alunos)
 
@@ -12,7 +12,7 @@ As escolas que vieram para o FT de Portas Abertas foram:
 
 3. Anglo Alante Araras, Araras (40)
 
-4.  Escola SESI Indaiatuba, Indaiatuba (80)
+4. Escola SESI Indaiatuba, Indaiatuba (80)
 
 5. Objetivo Itupeva, Itupeva (42)
 
@@ -27,5 +27,19 @@ As escolas que vieram para o FT de Portas Abertas foram:
 10. COC, Leme (31)
 
 
+## Público em geral
 
+Famílias também participaram do FT de Portas Abertas.
 
+::: {.centerText}
+![Família em atividade com realidade virtual.](foto-familia.jpg){width=70%}
+:::
+
+::: {.centerText}
+![Família em atividade de robótica.](foto-familia-2.jpg){width=70%}
+:::
+
+::: {}
+{{< video depoimento-1.mp4 width="400" height="300"  >}}
+Depoimento de família de Jundiaí.
+:::
