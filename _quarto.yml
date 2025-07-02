@@ -1,10 +1,11 @@
 project:
   type: book
+  output-dir: docs
 
 book:
   title: "FT de Portas Abertas 2025"
   author: "Comissão organizadora"
-  date: "01/03/2025"
+  date: "07/01/2025"
   chapters:
     - index.qmd
     - organizacao/organizacao.qmd
@@ -16,7 +17,7 @@ book:
     - recomendacoes/recomendacoes.qmd
     - agradecimentos/agradecimentos.qmd
     - consideracoes/consideracoes.qmd
-    
+
 format:
   html:
     lang: pt
