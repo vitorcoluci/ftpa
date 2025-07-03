@@ -7,7 +7,7 @@ O FT de Portas Abertas cumpriu seu objetivo de apresentar as atividades da FT pa
 Acreditamos que satisfação e orgulho foram sentimentos de quem trabalhou no evento. Mais do que prédios e equipamentos, a FT mostrou a sua cara mais importante: as pessoas aqui presentes. A recepção realizada pelos alunos e a atenção dada por eles para os visitantes, seja para as escolas, seja  para as famílias, foi surpreendente e exemplar. O entusiasmo em mostrar os laboratórios, explicar os experimentos e organizar a logística foi cativante.
 
 ::: {.centerText}
-![](foto-espanto.jpg){width=80%}
+![](foto-espanto.jpg){width=70%}
 :::
 
 Que essa energia levada aos visitantes se mantenha viva até o próximo FT de Portas Abertas. 
