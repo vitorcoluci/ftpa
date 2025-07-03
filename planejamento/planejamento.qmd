@@ -11,7 +11,7 @@ de ingresso e de permanência estudantil na Universidade e sobre as atrações d
 A [palestra](FTPA-palestra-abertura.pdf) foi proferida pelo Prof. Yuri Meyer para vários grupos de visitantes.
 
 ::: {.centerText}
-![Prof. Yuri levando informações para os visitantes na palestra de abertura.](palestra-abertura.jpg){width=60%}
+![Prof. Yuri levando informações para os visitantes na palestra de abertura.](palestra-abertura.jpg){width=100%}
 :::
 
 ## Dinâmicas
