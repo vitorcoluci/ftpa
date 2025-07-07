@@ -16,7 +16,7 @@ smtp_port = 587
 servidor = smtplib.SMTP(smtp_server, smtp_port)
 
 email_usuario = "ftpa@unicamp.br"
-senha = "Mcbfqtv25!"
+senha = "secreta"
 
 servidor.starttls()
 servidor.login(email_usuario, senha)
