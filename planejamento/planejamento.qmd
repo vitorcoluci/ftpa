@@ -19,25 +19,25 @@ A [palestra](FTPA-palestra-abertura.pdf) foi proferida pelo Prof. Yuri Meyer par
 A apresentação dos cursos da FT foi feita por meio de *Dinâmicas*, uma para cada área da graduação da FT. 
 As dinâmicas foram organizadas por docentes, funcionários e alunos.
 
-- **Dinâmica 1 - Computação**: Ilustração da ideia de algoritmo, o conceito básico da computação. Isso será feito apresentando alguns algoritmos usados para controlar o movimento de robôs feitos com Lego. Os visitantes poderão interagir com os robôs, modificando partes dos algoritmos e percebendo, em tempo real, os efeitos dessas modificações no movimento. Tópicos como lógica e linguagem de programação serão abordados.
+- **Dinâmica 1 - Computação**: Ilustração da ideia de algoritmo, o conceito básico da computação. Isso foi feito apresentando alguns algoritmos usados para controlar o movimento de robôs feitos com Lego. Os visitantes puderam interagir com os robôs, modificando partes dos algoritmos e percebendo, em tempo real, os efeitos dessas modificações no movimento. Tópicos como lógica e linguagem de programação foram abordados.
 
 ::: {.centerText}
 ![Dinâmica da área de computação, preparada pela liga de Robótica da FT.](dinamica-computacao.jpg){width=60%}
 :::
 
-- **Dinâmica 2 - Transportes**: A importância do estudo do relevo para a construção de rodovias e ferrovias será trabalhada nessa dinâmica. Para isso, os visitantes irão até o Laboratório de Solos interagir com um simulador de relevo e de suas mudanças em tempo real (sandbox). Irão também participar de um quiz interativo sobre infraestrutura rodoviária.  Após o final da trilha, os visitantes interessados no curso de Engenharia de Transportes poderão ainda ver outras atrações opcionais, como uma demonstração de drones aplicados ao monitoramento e planejamento de transportes.
+- **Dinâmica 2 - Transportes**: A importância do estudo do relevo para a construção de rodovias e ferrovias foi trabalhada nessa dinâmica. Para isso, os visitantes foram até o Laboratório de Solos interagir com um simulador de relevo e de suas mudanças em tempo real (sandbox).  Após o final da trilha, os visitantes interessados no curso de Engenharia de Transportes puderam ainda ver outras atrações opcionais, como uma demonstração de drones aplicados ao monitoramento e planejamento de transportes.
 
 ::: {.centerText}
 ![Dinâmica da área de transportes.](dinamica-transportes.jpg){width=60%}
 :::
 
-- **Dinâmica 3 - Ambiente**: Os participantes terão a oportunidade de observar organismos aquáticos e terrestres que atuam como indicadores ambientais, fornecendo informações essenciais sobre o nível de estresse ecológico na água e no solo.
+- **Dinâmica 3 - Ambiente**: Os participantes tiveram a oportunidade de observar organismos aquáticos e terrestres que atuam como indicadores ambientais, fornecendo informações essenciais sobre o nível de estresse ecológico na água e no solo.
 
 ::: {.centerText}
 ![Dinâmica da área ambiental.](dinamica-ambiental.jpg){width=60%}
 :::
 
-- **Dinâmica 4 - Telecomunicações**: A dinâmica irá abranger grandes áreas do curso de Telecomunicações como eletromagnetismo, circuitos elétricos, redes de comunicações, processamento de sinais e programação. Ao chegarem no laboratório LK01, os visitantes assistirão uma explicação sobre as áreas do curso e possibilidades de atuação. Em seguida, verão como pode ser feito o monitoramento de veículos que entram no campus, um importante processo em cidades inteligentes. Finalmente, passarão pelo laboratório LK02 onde poderão ver fenômenos relacionados às áreas de radiofrequência e antenas. Ao final da trilha, os visitantes interessados no curso de Engenharia de Telecomunicações poderão ainda ver outras duas atrações opcionais: utilização de óculos de realidade virtual para visualizar a transmissão de holografia em redes de alta velocidade (futuro 6G) e outra em que observarão como a própria luz visível pode ser usada para transmitir dados de forma sem fio.
+- **Dinâmica 4 - Telecomunicações**: A dinâmica abrangeu grandes áreas do curso de Telecomunicações como eletromagnetismo, circuitos elétricos, redes de comunicações, processamento de sinais e programação. Ao chegarem no laboratório LK01, os visitantes assistiram uma explicação sobre as áreas do curso e possibilidades de atuação. Em seguida, viram como pode ser feito o monitoramento de veículos que entram no campus, um importante processo em cidades inteligentes. Finalmente, passaram pelo laboratório LK02 onde poderão ver fenômenos relacionados às áreas de radiofrequência e antenas. Ao final da trilha, os visitantes interessados no curso de Engenharia de Telecomunicações puderam ainda ver outras duas atrações opcionais: utilização de óculos de realidade virtual para visualizar a transmissão de holografia em redes de alta velocidade (futuro 6G) e outra em que observaram como a própria luz visível pode ser usada para transmitir dados sem a necessidade de cabos.
 
 ::: {.centerText}
 ![Dinâmica da área de telecomunicações.](dinamica-telecom.jpg){width=80%}
@@ -132,7 +132,7 @@ A seguir, podemos ver o mural das fotos tiradas no estúdio de fotos.
 ![Fotos com a equipe de organização.](estudio-2.jpg){width=90%}
 :::
 
-- *Eco Edu*: O projeto Eco Edu apresentou suas atividades, principalmente seu projeto de Libras.
+- *Ecoedu Ambiental*: O projeto Ecoedu apresentou suas atividades, principalmente seu projeto de Libras.
 
 ::: {.centerText}
 ![](visita-ecoedu.jpg){width=70%}
