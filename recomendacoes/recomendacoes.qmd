@@ -2,7 +2,9 @@
 title: Recomendações
 ---
 
-Durante a execução do FT de Portas Abertas, diversos pontos foram percebidos que poderiam ser levados em conta para a melhoria das edições futuras.  A seguir, listamos esses pontos.
+A realização da FT de Portas Abertas (FTPA) representa uma das principais iniciativas da Faculdade de Tecnologia da Unicamp voltadas à divulgação dos cursos de graduação e à aproximação com estudantes do Ensino Médio, professores e a comunidade em geral. Mais do que um evento de recepção e apresentação institucional, a FTPA busca cumprir um papel estratégico: ampliar a visibilidade da FT, fortalecer sua inserção social e contribuir para a atração de novos alunos para seus cursos.
+
+Durante a execução do FTPA, diversos pontos foram percebidos que poderiam ser levados em conta para a melhoria de suas edições futuras.  A seguir, listamos esses pontos.
 
 
 ## Comissão Permanente
@@ -21,7 +23,6 @@ As tarefas ficaram muito concentradas para o presidente da comissão. A sugestã
 ## Convênio com prefeitura de Limeira
 
 A ausência de escolas públicas de Limeira no evento trouxe um alerta. Apesar de esforços na divulgação via email e presencial em algumas escolas, uma maior participação poderá ser alcançada estabelecendo-se um convênio com a Prefeitura de Limeira. Isso deve ser feita com antecedência já que trâmites nesse sentido podem demorar. Uma outra ação complementar seria contratar ônibus para trazer os estudantes de algumas escolas de Limeira para o evento. Recursos da curricularização da extensão poderiam ser usados para este fim.
-
 
 ## Parceria com o Cotil 
 
@@ -109,3 +110,26 @@ Em relação às placas informativas, a comissão elaborou novos designs para el
 ## Ampliação da participação da comunidade interna
 
 A FT de Portas Abertas beneficia a própria FT. Ações para aumentar a adesão da comunidade interna devem ser implantadas para expandir o número de atrações no evento e aproximar a FT da comunidade externa. Por exemplo, a participação de laboratórios de pesquisa foi pequena no evento. Visitas nos laboratórios ou mesmo pequenos estandes para expor parte da pesquisa feita poderiam despertar interesse dos visitantes.
+
+## Acompanhamento e avaliação do impacto do evento
+
+Estabelecer mecanismos sistemáticos de acompanhamento e avaliação do impacto do FTPA é fundamental para que ela atinja seus objetivos. A partir da coleta e análise de dados, como a percepção dos visitantes, a influência do evento na escolha dos cursos e a evolução do número de inscritos e ingressantes, será possível mensurar a eficácia da FTPA enquanto ação de divulgação institucional e de fortalecimento da graduação.
+
+Além de subsidiar a melhoria contínua do evento, o monitoramento sistemático permitirá à FT:
+
+- Ajustar suas estratégias de comunicação e interação com escolas e comunidades;
+
+- Avaliar a efetividade do investimento institucional e dos apoios recebidos;
+
+- Identificar tendências e potencializar a atração de novos estudantes;
+
+Espera-se que, ao longo dos anos, a FTPA consolide-se como uma ação culturalmente reconhecida pela comunidade, estabelecendo um vínculo entre a FT e os estudantes do Ensino Médio. A construção desse caráter institucional visa não apenas a aproximação social, mas também o fortalecimento da imagem da FT como referência em formação tecnológica e de engenharia.
+
+Nesse sentido, uma das primeiras e mais objetivas formas de acompanhamento da efetividade do evento consiste na análise sistemática dos dados oficiais da COMVEST, acompanhando a evolução das inscrições nos processos seletivos da Unicamp, bem como a relação candidato/vaga dos cursos da FT. O monitoramento desses indicadores ao longo dos anos permitirá verificar eventuais correlações entre a realização da FTPA e o interesse dos estudantes pelos cursos de graduação da unidade. 
+
+
+Além desse acompanhamento, são ainda sugeridas duas outras formas de avaliação do evento:
+
+1. Avaliação imediata à realização do evento por meio de questionário a ser preenchido pelas escolas participantes: O questionário dará informações importantes sobre a eficiência do evento, bem como será capaz de listar melhorias para as próximas edições. Uma sugestão de questionário pode ser visto [aqui](questionario-1.txt). 
+
+2. Avaliação Longitudinal — Monitoramento de Ingressantes:  Identificar, junto aos alunos calouros se a FT de Portas Abertas foi um fator relevante na decisão dos ingressantes. Para isso, podem ser usados, por exemplo,  questionários já existentes da FT e que já são aplicados para calouros no dia da matrícula. Uma sugestão de questionário pode ser visto [aqui](./questionario-2.txt).
