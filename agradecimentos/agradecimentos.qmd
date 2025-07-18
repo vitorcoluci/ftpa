@@ -2,7 +2,7 @@
 title: Agradecimentos
 ---
 
-Gostaríamos de agradecer os professores e funcionários da FT que contribuíram direta ou indiretamente para o FT de Portas Abertas. Um agradecimento especial também aos alunos listados a seguir que, sem a participação deles, o evento não seria possível.
+Gostaríamos de agradecer os professores e funcionários da FT que contribuíram direta ou indiretamente para o FT de Portas Abertas. Um agradecimento especial também aos alunos listados a seguir que, sem a participação deles, o evento não teria sido possível.
 
 1. 	Adriano Baumgarte Bassani Filho
 2. 	Amanda Feldman

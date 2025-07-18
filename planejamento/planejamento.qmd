@@ -2,7 +2,7 @@
 title: Evento
 ---
 
-O planejamento e a execução do FT de Portas Abertas envolveu várias etapas, detalhadas a seguir.
+O planejamento e a execução do FT de Portas Abertas 2025 envolveu várias etapas, detalhadas a seguir.
 
 ## Palestra de Abertura
 
@@ -25,7 +25,7 @@ As dinâmicas foram organizadas por docentes, funcionários e alunos.
 ![Dinâmica da área de computação, preparada pela liga de Robótica da FT.](dinamica-computacao.jpg){width=60%}
 :::
 
-- **Dinâmica 2 - Transportes**: A importância do estudo do relevo para a construção de rodovias e ferrovias foi trabalhada nessa dinâmica. Para isso, os visitantes foram até o Laboratório de Solos interagir com um simulador de relevo e de suas mudanças em tempo real (sandbox).  Após o final da trilha, os visitantes interessados no curso de Engenharia de Transportes puderam ainda ver outras atrações opcionais, como uma demonstração de drones aplicados ao monitoramento e planejamento de transportes.
+- **Dinâmica 2 - Transportes**: A importância do estudo do relevo para a construção de rodovias e ferrovias foi trabalhada nessa dinâmica. Para isso, os visitantes foram até o Laboratório de Solos interagir com um simulador de relevo e de suas mudanças em tempo real (*sandbox*).  Após o final da trilha, os visitantes interessados no curso de Engenharia de Transportes puderam ainda ver outras atrações opcionais, como uma demonstração de drones aplicados ao monitoramento e planejamento de transportes.
 
 ::: {.centerText}
 ![Dinâmica da área de transportes.](dinamica-transportes.jpg){width=60%}
@@ -57,7 +57,6 @@ O vídeo a seguir mostra a visitação no laboratório de Telecomunicações.
 
 {{< video video-telecom.mov width="400" height="300" >}}
 
-
 Guiados por monitores, os visitantes eram levados para essas dinâmicas por meio de uma trilha ilustrada na figura a seguir.
 
 ::: {.centerText}
@@ -82,7 +81,7 @@ O aplicativo usou dados coletados por drone e fornecidos pelo Prof. Vitor Molina
 ![Visitantes participando da atividade com realidade virtual.](RV-2.jpeg){width=80%}
 :::
 
-- *Iniciação científica*: Trabalhos desenvolvidos por alunos da FT foram expostos no Explora. Os vistantes puderem interagir com nossos alunos.
+- *Iniciação científica*: Trabalhos desenvolvidos por alunos da FT foram expostos no [Explora](https://explora.ft.unicamp.br/). Os vistantes puderam interagir com nossos alunos.
 
 ::: {.centerText}
 ![Trabalho de TCC sobre controle de drone por gestos sendo exposto para visitantes.](IC-1.jpeg){width=80%}
@@ -132,7 +131,7 @@ A seguir, podemos ver o mural das fotos tiradas no estúdio de fotos.
 ![Fotos com a equipe de organização.](estudio-2.jpg){width=90%}
 :::
 
-- *Ecoedu Ambiental*: O projeto Ecoedu apresentou suas atividades, principalmente seu projeto de Libras.
+- *Ecoedu Ambiental*: O projeto Ecoedu apresentou suas atividades, principalmente seu projeto de ensino de Libras.
 
 ::: {.centerText}
 ![](visita-ecoedu.jpg){width=70%}
@@ -179,7 +178,7 @@ Um folder foi elaborado para ser entregue aos visitantes nos dias do evento. O f
 
 ### Site
 
-As principais informações sobre o evento foram disponibilizadas no [site](https://wordpress.ft.unicamp.br/ftpa/) do evento. Informações sobre os cursos, formas de inscrição dos visitantes, FAQ e a descrição das atividades do evento foram colocadas no site.
+As principais informações sobre o evento foram disponibilizadas no [site](https://wordpress.ft.unicamp.br/ftpa/) do evento: cursos, formas de inscrição dos visitantes, FAQ e a descrição das atividades do evento.
 
 
 ### Escolas
@@ -201,7 +200,7 @@ Prezado(a) Diretor(a) Fulano.
 
 A Faculdade de Tecnologia da UNICAMP realizará o evento FT de Portas Abertas nos dias 13 e 14 de Junho em Limeira-SP.
 
-Gostaríamos de convidar os alunos e professores do(a) FT - UNICAMP para nos visitar nesses dias.
+Gostaríamos de convidar os alunos e professores do(a) nome da escola para nos visitar nesses dias.
 
 Em anexo, apresentamos a carta-convite de nosso diretor com mais detalhes do evento.
 
@@ -235,18 +234,17 @@ Diversos banners foram confeccionados e distribuídos na FT para facilitar a loc
 :::
 
 ::: {.centerText}
-![Localização de banners (tamanho A2) de divulgação das atraçõesnas dependências da FT.](banners-3.png){width=80%}
+![Localização de banners (tamanho A2) de divulgação das atrações nas dependências da FT.](banners-3.png){width=80%}
 :::
 
 ## Mídias digitais
 
 Um [Instagram](https://www.instagram.com/ftportasabertas/) para o evento foi produzido pelos alunos, contendo informações sobre as atrações e sobre os cursos da FT. Conteúdos também foram adicionados em outras contas de Instagram da FT como, por exemplo, o [convite para o evento](https://www.instagram.com/reel/DKZt6T_xspD/). O formato desse convite foi depois [reproduzido para um evento de Extensão do IFGW/Unicamp](https://www.instagram.com/p/DKk4qxtSHpM/?hl=pt).
 
-
 ## Aplicativo
 
-O FT de Portas Abertas também contou com um aplicativo para celular que mostrava o mapa do campus, com indicações para as atrações, com informações sobre os cursos e com a localização em tempo real do visitante. O aplicativo pode ser usado na [Web](https://diversos-af313.web.app/ftpa/) ou em celulares Android ([download aqui](http://wordpress.ft.unicamp.br/ftpa/wp-content/uploads/sites/92/2025/06/ftpa_map.apk)). O aplicativo foi desenvolvido pelo Prof. Ulisses Martins Dias, com dados obtidos por um drone fornecidos pelo Prof. Vitor Molina.
+O FT de Portas Abertas também contou com um aplicativo para celular que mostrava o mapa do campus, com indicações para as atrações, com informações sobre os cursos e com a localização em tempo real do visitante. O aplicativo pode ser usado via [Web](https://diversos-af313.web.app/ftpa/) ou em celulares Android ([download aqui](http://wordpress.ft.unicamp.br/ftpa/wp-content/uploads/sites/92/2025/06/ftpa_map.apk)). O aplicativo foi desenvolvido pelo Prof. Ulisses Martins Dias, com dados obtidos por um drone fornecidos pelo Prof. Vitor Molina.
 
 ::: {.centerText}
-![Tela do aplicativo do FT de Portas Abertas. Uma foto aérea da FT é sobreposta ao mapa da FT. Locais das atrações são indicados em roxo. O ícone no canto superior direito direciona para informações dos cursos da FT.](app-mapa-Ulisses.jpg){width=110%}
+![Tela do aplicativo do FT de Portas Abertas. Uma foto aérea da FT é sobreposta ao mapa da FT. Locais das atrações são indicados em roxo. O ícone no canto superior direito direciona o usuário para as informações dos cursos da FT.](app-mapa-Ulisses.jpg){width=110%}
 :::
