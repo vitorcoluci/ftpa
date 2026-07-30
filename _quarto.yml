@@ -3,20 +3,36 @@ project:
   output-dir: docs
 
 book:
-  title: "FT de Portas Abertas 2025"
+  title: "FT de Portas Abertas"
   author: "Comissão organizadora"
-  date: "07/16/2025"
+  date: "07/30/2026"
   chapters:
     - index.qmd
-    - organizacao/organizacao.qmd
-    - motivacao/motivacao.qmd
-    - atividades/atividades.qmd
-    - planejamento/planejamento.qmd
-    - custos/custos.qmd
-    - visitantes/visitantes.qmd
-    - recomendacoes/recomendacoes.qmd
-    - agradecimentos/agradecimentos.qmd
-    - consideracoes/consideracoes.qmd
+    - part: "**Edição 2025**"
+      chapters:
+        - 2025/index.qmd
+        - 2025/organizacao/organizacao.qmd
+        - 2025/motivacao/motivacao.qmd
+        - 2025/atividades/atividades.qmd
+        - 2025/planejamento/planejamento.qmd
+        - 2025/custos/custos.qmd
+        - 2025/visitantes/visitantes.qmd
+        - 2025/recomendacoes/recomendacoes.qmd
+        - 2025/agradecimentos/agradecimentos.qmd
+        - 2025/consideracoes/consideracoes.qmd
+    - part: "**Edição 2026**"
+      chapters:
+        - 2026/index.qmd
+        - 2026/organizacao/organizacao.qmd
+        - 2026/motivacao/motivacao.qmd
+        - 2026/atividades/atividades.qmd
+        - 2026/planejamento/planejamento.qmd
+        - 2026/custos/custos.qmd
+        - 2026/visitantes/visitantes.qmd
+        - 2026/recomendacoes/recomendacoes.qmd
+        - 2026/agradecimentos/agradecimentos.qmd
+        - 2026/consideracoes/consideracoes.qmd
+    
 
 format:
   html:
@@ -25,8 +41,4 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
-  pdf:
-    documentclass: scrreprt
-    number-sections: true
-    colorlinks: true
-    keep-tex: true
+    number-sections: false

@@ -18,16 +18,3 @@ Foi utilizado um total de R$ 11.878,80 para confeccionar camisetas para equipe o
 | Segurança (4 agentes)|  3.843,60   |
 | TOTAL | 11.878,80 |
 : Custos do FTPA 2026. {.striped .hover}
-
-::: {.centerText}
-![Camiseta confeccionada para o evento.](camisetas.png){width=70%}
-:::
-
-::: {.centerText}
-![Banner de divulgação do evento que foi instalado na grade lateral da FT e na grade ao lado da portaria principal do campus.](2-Faixas-entrada-FTPA-2026-100cmx300cm.pdf){width=70%}
-:::
-
-::: {.centerText}
-![Placa em lona para a divulgação dos cursos da FT instalada na parede do prédio de recepeção de energia elétrica do campus.](outdoor.jpg){width=70%}
-:::
-

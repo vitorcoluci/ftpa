@@ -7,7 +7,7 @@ title: Motivação
 A FT oferece sete cursos de graduação – dois de Tecnologia, três de Engenharia e dois de Bacharelado – em áreas cruciais para a sociedade moderna: Computação, Ambiente, Transportes e Telecomunicações. O gráfico a seguir mostra a evolução do total de inscritos no vestibular Unicamp para os cursos da FT. Podemos perceber um aumento nos inscritos em 2026 em relação a 2025. A FTPA 2025, ocorrida em Julho/2025, antes do fim das inscrições para o vestibular Unicamp em setembro/2025, pode ter contribuído com esse aumento. Uma enquete junto aos alunos ingressantes da FT sobre o efeito da FTPA na escolha pela Unicamp poderia ser realizada para se avaliar o real impacto do evento.
 
 ::: {.centerText}
-![Evolução do total de inscritos para os cursos da FT.](../dados/inscritos.png){width=60%}
+![Evolução do total de inscritos para os cursos da FT.](../dados/inscritos.png){width=80%}
 :::
 
 ## Público-alvo

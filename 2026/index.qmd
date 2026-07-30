@@ -1,8 +1,8 @@
 ---
-title: "Introdução"
+title: "FTPA 2026"
 ---
 
-A FT de Portas Abertas foi uma iniciativa da Faculdade de Tecnologia (FT) da Unicamp voltada à divulgação de seus cursos de graduação, bem como das atividades de pesquisa e extensão, junto ao público externo, especialmente estudantes do Ensino Médio. O evento tem como principal objetivo ampliar a visibilidade da FT, destacando sua relevância acadêmica e profissional e fortalecendo a conexão com a comunidade.
-O evento foi realizado nos dias 13 (Sexta) e 14 (Sábado) de junho de 2025 das 9h às 17h.
+A [FT de Portas Abertas](https://wordpress.ft.unicamp.br/ftpa/) foi uma iniciativa da Faculdade de Tecnologia (FT) da Unicamp voltada à divulgação de seus cursos de graduação, bem como das atividades de pesquisa e extensão, junto ao público externo, especialmente estudantes do Ensino Médio. O evento tem como principal objetivo ampliar a visibilidade da FT, destacando sua relevância acadêmica e profissional e fortalecendo a conexão com a comunidade.
+A edição de 2026 foi realizada no dia 10 (Quarta) de junho de 2026 das 9h às 17h.
 
 Este relatório detalha as etapas do planejamento e execução das edições do evento, assim como aponta recomendações para suas futuras edições.

@@ -2,7 +2,7 @@
 title: Evento
 ---
 
-O planejamento e a execução do FT de Portas Abertas 2025 envolveu várias etapas, detalhadas a seguir.
+O planejamento e a execução do FT de Portas Abertas 2026 envolveu várias etapas, detalhadas a seguir.
 
 ## Palestra de Abertura
 
@@ -11,7 +11,7 @@ de ingresso e de permanência estudantil na Universidade e sobre as atrações d
 A [palestra](FTPA-palestra-abertura.pdf) foi proferida pelo Prof. Yuri Meyer para vários grupos de visitantes.
 
 ::: {.centerText}
-![Prof. Yuri levando informações para os visitantes na palestra de abertura.](palestra-abertura.jpg){width=60%}
+![Prof. Yuri levando informações para os visitantes na palestra de abertura.](2026-palestra-abertura.jpg){width=90%}
 :::
 
 ## Dinâmicas
@@ -19,149 +19,78 @@ A [palestra](FTPA-palestra-abertura.pdf) foi proferida pelo Prof. Yuri Meyer par
 A apresentação dos cursos da FT foi feita por meio de *Dinâmicas*, uma para cada área da graduação da FT. 
 As dinâmicas foram organizadas por docentes, funcionários e alunos.
 
-- **Dinâmica 1 - Computação**: Ilustração da ideia de algoritmo, o conceito básico da computação. Isso foi feito apresentando alguns algoritmos usados para controlar o movimento de robôs feitos com Lego. Os visitantes puderam interagir com os robôs, modificando partes dos algoritmos e percebendo, em tempo real, os efeitos dessas modificações no movimento. Tópicos como lógica e linguagem de programação foram abordados.
+- **Dinâmica 1 - Computação**: A ideia de algoritmo, o conceito básico da computação, foi apresentado por meio de atividades lúdicas envolvendo os visitantes. Demonstração de hardware e exemplos de uso de inteligência artificial também foram apresentados.
 
 ::: {.centerText}
-![Dinâmica da área de computação, preparada pela liga de Robótica da FT.](dinamica-computacao.jpg){width=60%}
+![Dinâmica da área de computação.](2026-din-computacao.jpg){width=90%}
 :::
+
+::: {align="center"}
+{{< video 2026-din-computacao-video.mov width="380" height="600" >}}
+:::
+
 
 - **Dinâmica 2 - Transportes**: A importância do estudo do relevo para a construção de rodovias e ferrovias foi trabalhada nessa dinâmica. Para isso, os visitantes foram até o Laboratório de Solos interagir com um simulador de relevo e de suas mudanças em tempo real (*sandbox*).  Após o final da trilha, os visitantes interessados no curso de Engenharia de Transportes puderam ainda ver outras atrações opcionais, como uma demonstração de drones aplicados ao monitoramento e planejamento de transportes.
 
 ::: {.centerText}
-![Dinâmica da área de transportes.](dinamica-transportes.jpg){width=60%}
+![Dinâmica da área de transportes.](2026-din-transportes.jpg){width=80%}
 :::
 
 - **Dinâmica 3 - Ambiente**: Os participantes tiveram a oportunidade de observar organismos aquáticos e terrestres que atuam como indicadores ambientais, fornecendo informações essenciais sobre o nível de estresse ecológico na água e no solo.
 
 ::: {.centerText}
-![Dinâmica da área ambiental.](dinamica-ambiental.jpg){width=60%}
+![Dinâmica da área ambiental.](2026-din-ambiental.jpg){width=80%}
 :::
 
-- **Dinâmica 4 - Telecomunicações**: A dinâmica abrangeu grandes áreas do curso de Telecomunicações como eletromagnetismo, circuitos elétricos, redes de comunicações, processamento de sinais e programação. Ao chegarem no laboratório LK01, os visitantes assistiram uma explicação sobre as áreas do curso e possibilidades de atuação. Em seguida, viram como pode ser feito o monitoramento de veículos que entram no campus, um importante processo em cidades inteligentes. Finalmente, passaram pelo laboratório LK02 onde poderão ver fenômenos relacionados às áreas de radiofrequência e antenas. Ao final da trilha, os visitantes interessados no curso de Engenharia de Telecomunicações puderam ainda ver outras duas atrações opcionais: utilização de óculos de realidade virtual para visualizar a transmissão de holografia em redes de alta velocidade (futuro 6G) e outra em que observaram como a própria luz visível pode ser usada para transmitir dados sem a necessidade de cabos.
+- **Dinâmica 4 - Telecomunicações**: A dinâmica abrangeu grandes áreas do curso de Telecomunicações como eletromagnetismo, circuitos elétricos, redes de comunicações, processamento de sinais e programação. Ao chegarem no laboratório LK01, os visitantes assistiram uma explicação sobre as áreas do curso e possibilidades de atuação. 
 
 ::: {.centerText}
-![Dinâmica da área de telecomunicações.](dinamica-telecom.jpg){width=80%}
+![Dinâmica da área de telecomunicações.](2026-din-telecom.jpg){width=80%}
 :::
 
-As dinâmicas foram muito interativas e despertaram muito interesse nos visitantes.
+As dinâmicas foram muito interativas e despertaram muito interesse nos visitantes. O vídeo a seguir mostra a visitação no laboratório de Telecomunicações.
 
-::: {.centerText}
-![Visitantes no FT de Portas Abertas assistindo demonstração de transmissão de som usando laser.](exemplo-atividade-telecom-1.jpg){width=60%}
-:::
-
-::: {.centerText}
-![Monitora explicando demonstração.](exemplo-telecom-2.jpg){width=60%}
-:::
-
-O vídeo a seguir mostra a visitação no laboratório de Telecomunicações.
-
-{{< video video-telecom.mov width="400" height="300" >}}
-
-Guiados por monitores, os visitantes eram levados para essas dinâmicas por meio de uma trilha ilustrada na figura a seguir.
-
-::: {.centerText}
-![Representação esquemática em planta da FT, contendo o sentido do percurso dos visitantes. As setas contínuas em preto, cinza (percurso da Computação), verde (percurso Eng. de Transportes), azul (percurso Eng. Ambiental), vermelho (percurso Eng. de Telecomunicações) e amarelo (percurso final) indicam a trilha. O nome dos prédios principais e do estacionamento estão identificados em cor branca e tarja preta.](percurso-trilhas.png){width=60%}
-:::
-
+{{< video 2026-din-telecom-video.mov width="380" height="600" >}}
 
 ## Atrações
 
-Além das dinâmicas, diversas atrações (atividades) foram realizadas:
+Além das dinâmicas, diversas atrações foram realizadas:
 
 - *FT em Realidade Virtual*: A atividade mostrou nosso campus aos vistantes por meio de uma maquete virtual. O aplicativo em realidade virtual foi desenvolvido pelo doutorando Jhasmani Tito Cruz.
-O aplicativo usou dados coletados por drone e fornecidos pelo Prof. Vitor Molina.
 
-::: {.centerText}
-![](maquete-virtual-1.jpg){width=60%}
-![](maquete-virtual-2.jpg){width=60%}
-![Aplicativo em realidade virtual que permite passear pelo campus I da Unicamp/Limeira.](maquete-virtual-3.jpg){width=60%}
-:::
 
-::: {.centerText}
-![Visitantes participando da atividade com realidade virtual.](RV-2.jpeg){width=80%}
-:::
+{{< video 2026-maquete-virtual.mov width="380" height="600" >}}
 
-- *Iniciação científica*: Trabalhos desenvolvidos por alunos da FT foram expostos no [Explora](https://explora.ft.unicamp.br/). Os vistantes puderam interagir com nossos alunos.
+- *Transmissão ao vivo da Rádio Fatídica*: 
 
-::: {.centerText}
-![Trabalho de TCC sobre controle de drone por gestos sendo exposto para visitantes.](IC-1.jpeg){width=80%}
-:::
+{{< video 2026-radio.mov width="380" height="600" >}}
 
-- *Onde estão os nossos formandos ?*: A atividade permitiu que os visitantes pudessem conversar com egressos da FT.
 
 - *Organizações estudantis*: Algumas organizações estudantis da FT apresentaram seus projetos.
 
 ::: {.centerText}
-![](org-est-1.jpg){width=40%}
-![](org-est-2.jpg){width=40%}
-![](org-est-3.jpg){width=40%}
-![](org-est-4.jpg){width=40%}
-![](org-est-5.jpg){width=40%}
-![Organizações estudantis puderem apresentar seus projetos no FT de Portas Abertas.](org-est-6.jpg){width=40%}
+![](2026-org-1.jpg){width=50%}
+![](2026-org-2.jpg){width=50%}
+![](2026-org-3.jpg){width=50%}
+![](2026-org-4.jpg){width=50%}
 :::
 
-- *Eu fui !*: A LP04 se transformou num estúdio de fotos onde os vistantes puderam registrar sua participação no evento. Após a foto, um email era encaminhado para o visitante
-contendo a foto tirada e a seguinte mensagem:
+- *Eu fui !*: A LP04 se transformou num estúdio de fotos onde os vistantes puderam registrar sua participação no evento. Após a foto, um email era encaminhado para o visitante com a foto tirada e uma mensagem de agradecimento.
 
-```{}
-Olá !
-
-Agradeçemos sua participação no evento FT de Portas Abertas !
-
-Esperamos que a experiência tenha sido enriquecedora.
-
-Em anexo, estamos enviando a foto de recordação do evento.
-
-Mais informações sobre a Faculdade de Tecnologia/Unicamp
-podem ser vistas em https://www.ft.unicamp.br/ .
-
-Informações sobre o vestibular da Unicamp podem ser obtidas 
-em https://www.comvest.unicamp.br/ .
-
-Comissão organizadora.
-```
-
-A seguir, podemos ver o mural das fotos tiradas no estúdio de fotos.
-
-::: {.centerText}
-![Fotos com os visitantes.](estudio-1.jpg){width=90%}
-:::
-
-::: {.centerText}
-![Fotos com a equipe de organização.](estudio-2.jpg){width=90%}
-:::
-
-- *Ecoedu Ambiental*: O projeto Ecoedu apresentou suas atividades, principalmente seu projeto de ensino de Libras.
-
-::: {.centerText}
-![](visita-ecoedu.jpg){width=70%}
-:::
-
-- *Inova*: A agência Inova da Unicamp montou uma estande no FT de Portas Abertas e apresentou uma palestra para os visitantes, divulgando principalmente o evento "Inova Jovem".
-
-::: {.centerText}
-![](participacao-inova.jpg){width=50%}
-![](palestra-inova.jpg){width=80%}
-:::
-
-A Inova publicou uma matéria sobre sua participação no FT de Portas Abertas que pode ser vista [aqui](https://www.inova.unicamp.br/2025/06/inova-unicamp-apresenta-programa-de-empreendedorismo-para-jovens-durante-o-ft-de-portas-abertas/).
-
-- *Equipe Unicamp Racing Team 1600*: A equipe da FT que compete na fórmula 1600 apresentou seu projeto durante o evento.
-
-::: {.centerText}
-![](exposicao-carro.jpg){width=70%}
-:::
 
 - *Limeteria*: A equipe da Limeteria levou música para os dias do evento e alegrou os visitantes.
 
+{{< video 2026-limeteria.mov width="380" height="600" >}}
+
+- *Laboratórios*: Vários laboratórios apresentaram seus trabalhos durante o FTPA.
+
 ::: {.centerText}
-![](limeteria.jpg){width=70%}
+![](2026-lab-1.jpg){width=50%}
+![](2026-lab-2.jpg){width=50%}
+![](2026-lab-3.jpg){width=50%}
+![](2026-lab-4.jpg){width=50%}
+![](2026-lab-5.jpg){width=50%}
 :::
-
-## Alimentação e segurança
-
-Alguns *foods trucks* estiveram presentes nos dias do evento para fornecer opções de alimentação para os visitantes. Esses *dood trucks* foram organizados pela prefeitura do campus, junto ao Programa [chefs no campus](https://prefeituralimeira.unicamp.br/chefs-no-campus/).
-Dada a expectiva inicial da visita de várias escolas, foi necessária a contratação temporária de mais dois vigias junto a empresa terceirizada que presta serviços para a Unicamp/Limeira.
 
 ## Divulgação
 
@@ -172,8 +101,8 @@ Dada a expectiva inicial da visita de várias escolas, foi necessária a contrat
 Um folder foi elaborado para ser entregue aos visitantes nos dias do evento. O folder contém informações sobre a FT e sobre os cursos de graduação.
 
 ::: {.centerText}
-![](folder-1.jpg){width=90%}
-![](folder-2.jpg){width=90%}
+![](2026-folder-1.jpg){width=90%}
+![](2026-folder-2.jpg){width=90%}
 :::
 
 ### Site
@@ -193,58 +122,44 @@ Um convite foi enviado por email para aproximadamente 500 escolas de diversas ci
 ![Localização das escolas convidadas. O tamanho do círculo é proporcional ao número de escolas convidadas na cidade.](mapa-escolas.jpg){width=100%}
 :::
 
-A mensagem enviada para as escolas é apresentada a seguir.
-
-```{}
-Prezado(a) Diretor(a) Fulano.
-
-A Faculdade de Tecnologia da UNICAMP realizará o evento FT de Portas Abertas nos dias 13 e 14 de Junho em Limeira-SP.
-
-Gostaríamos de convidar os alunos e professores do(a) nome da escola para nos visitar nesses dias.
-
-Em anexo, apresentamos a carta-convite de nosso diretor com mais detalhes do evento.
-
-Estamos também enviando o panfleto para divulgação do evento para a comunidade de sua escola, pais, alunos e familiares.
-
-Para mais informações, acesse https://wordpress.ft.unicamp.br/ftpa/ .
-
-É necessário realizar um agendamento da escola pelo link apresentado no site.
-
-Será um prazer receber vocês aqui na FT/Unicamp! 
-
-Comissão organizadora.
-````
 
 ### Jornais
 
-O FT de Portas Abertas foi divulgado também no Jornal da Unicamp na seção [Agenda Unicamp](https://jornal.unicamp.br/agenda/2025/05/06/faculdade-de-tecnologia-realiza-a-edicao-2025-do-evento-ft-de-portas-abertas/#:~:text=Nos%20dias%2013%20e%2014%20de%20junho%20de%202025%2C%20a,e%20tecnol%C3%B3gica%20oferecidas%20pela%20institui%C3%A7%C3%A3o.), na [Gazeta de Limeira](https://instagram.com/p/DJZ7ulQBLoF/) e também no site da [Inova](https://www.inova.unicamp.br/2025/05/inova-unicamp-estara-no-ft-de-portas-abertas-em-limeira/
-).
-
+O FT de Portas Abertas foi divulgado no Jornal da Unicamp como [Notícia](https://www.unicamp.br/noticias/2026/06/09/ft-abre-suas-portas-e-apresenta-cursos-e-pesquisas-a-estudantes-do-ensino-medio-e-tecnico/) e na seção [Agenda Unicamp](https://jornal.unicamp.br/agenda/2026/05/08/faculdade-de-tecnologia-da-unicamp-abre-as-portas-ao-publico-no-dia-10-de-junho/) e  na [Gazeta de Limeira](https://gazetadelimeira.com.br/noticia/limeira/2026/05/unicamp-limeira-realiza-evento-aberto-ao-publico-para-apresentar-cursos-e-laboratorios/kpjj?preview=#gsc.tab=0)
 
 ## Sinalização 
 
 Diversos banners foram confeccionados e distribuídos na FT para facilitar a localização das atrações.
 
 ::: {.centerText}
-![Localização de banners (tamanho A0) de divulgação do evento nas portarias do campus I.](banners-1.png){width=80%}
+![Banner de divulgação do evento que foi instalado na grade lateral da FT e na grade ao lado da portaria principal do campus.](banner-entrada-FPA-2026.png){width=70%}
 :::
 
-::: {.centerText}
-![Localização de banners (tamanho A0) de divulgação dos cursos nas dependências da FT.](banners-2.png){width=80%}
-:::
+Os monitores usaram camisetas do evento para facilitar a identificação do pessoal de apoio pelos visitantes.
 
 ::: {.centerText}
-![Localização de banners (tamanho A2) de divulgação das atrações nas dependências da FT.](banners-3.png){width=80%}
+![Camiseta confeccionada para o evento.](camisetas.png){width=70%}
+:::
+
+Uma placa foi instalada para divulgar os cursos da FT. A placa fica no prédio ao lado da Av. Cônego Manoel Alves.
+
+
+::: {.centerText}
+![Placa em lona para a divulgação dos cursos da FT instalada na parede do prédio de recepeção de energia elétrica do campus.](outdoor.jpg){width=70%}
 :::
 
 ## Mídias digitais
 
-Um [Instagram](https://www.instagram.com/ftportasabertas/) para o evento foi produzido pelos alunos, contendo informações sobre as atrações e sobre os cursos da FT. Conteúdos também foram adicionados em outras contas de Instagram da FT como, por exemplo, o [convite para o evento](https://www.instagram.com/reel/DKZt6T_xspD/). O formato desse convite foi depois [reproduzido para um evento de Extensão do IFGW/Unicamp](https://www.instagram.com/p/DKk4qxtSHpM/?hl=pt).
+Um [Instagram](https://www.instagram.com/ftportasabertas/) para o evento foi produzido pelos alunos, contendo informações sobre as atrações e sobre os cursos da FT. 
 
 ## Aplicativo
 
-O FT de Portas Abertas também contou com um aplicativo para celular que mostrava o mapa do campus, com indicações para as atrações, com informações sobre os cursos e com a localização em tempo real do visitante. O aplicativo pode ser usado via [Web](https://diversos-af313.web.app/ftpa/) ou em celulares Android ([download aqui](http://wordpress.ft.unicamp.br/ftpa/wp-content/uploads/sites/92/2025/06/ftpa_map.apk)). O aplicativo foi desenvolvido pelo Prof. Ulisses Martins Dias, com dados obtidos por um drone fornecidos pelo Prof. Vitor Molina.
+O FT de Portas Abertas também contou com um aplicativo para celular que mostrava o mapa do campus, com indicações para as atrações, com informações sobre os cursos e com a localização em tempo real do visitante. O aplicativo pode ser usado via [Web](https://ulisses.ft.unicamp.br/apps/ftpa/). O aplicativo foi desenvolvido pelo Prof. Ulisses Martins Dias, com dados obtidos por um drone fornecidos pelo Prof. Vitor Molina.
 
 ::: {.centerText}
 ![Tela do aplicativo do FT de Portas Abertas. Uma foto aérea da FT é sobreposta ao mapa da FT. Locais das atrações são indicados em roxo. O ícone no canto superior direito direciona o usuário para as informações dos cursos da FT.](app-mapa-Ulisses.jpg){width=110%}
 :::
+
+## Fotos do evento
+
+Outras fotos do evento podem ser conferidas [aqui](https://drive.google.com/drive/u/0/folders/1pwICG_EW39R5SrDwnb4xjUS6Ptz0_bwo).
