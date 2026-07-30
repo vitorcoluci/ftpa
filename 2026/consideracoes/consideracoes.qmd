@@ -4,6 +4,10 @@ title: Considerações finais
 
 O FT de Portas Abertas 2026 cumpriu seu objetivo de apresentar as atividades da FT para a comunidade externa e de fornecer uma visão positiva dos cursos de graduação do campus I da Unicamp/Limeira. 
 
-Deixamos aqui um [vídeo](https://www.instagram.com/reel/DbJi3ppBLP5/?igsh=ZHVxM3NiZDBveHMz) produzido pelos alunos do curso de Engenharia de Transporte sobre o FTPA 2026. O vídeo mostrou o esforço e empenho dos alunos, professores e funcionários para a realização do evento.
+Deixamos aqui um vídeo produzido pelos alunos do curso de Engenharia de Transporte sobre o FTPA 2026. O vídeo resume muito o evento desse ano, mostrando o esforço e empenho dos alunos, professores e funcionários para sua realização.
+
+::: {align="center"}
+{{< video 2026-video-Transportes.mov width="380" height="600" >}}
+:::
 
 Até o **FTPA 2027** !
