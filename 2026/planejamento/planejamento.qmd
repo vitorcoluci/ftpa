@@ -29,7 +29,6 @@ As dinâmicas foram organizadas por docentes, funcionários e alunos.
 {{< video 2026-din-computacao-video.mov width="380" height="600" >}}
 :::
 
-
 - **Dinâmica 2 - Transportes**: A importância do estudo do relevo para a construção de rodovias e ferrovias foi trabalhada nessa dinâmica. Para isso, os visitantes foram até o Laboratório de Solos interagir com um simulador de relevo e de suas mudanças em tempo real (*sandbox*).  Após o final da trilha, os visitantes interessados no curso de Engenharia de Transportes puderam ainda ver outras atrações opcionais, como uma demonstração de drones aplicados ao monitoramento e planejamento de transportes.
 
 ::: {.centerText}
@@ -159,6 +158,16 @@ O FT de Portas Abertas também contou com um aplicativo para celular que mostrav
 ::: {.centerText}
 ![Tela do aplicativo do FT de Portas Abertas. Uma foto aérea da FT é sobreposta ao mapa da FT. Locais das atrações são indicados em roxo. O ícone no canto superior direito direciona o usuário para as informações dos cursos da FT.](app-mapa-Ulisses.jpg){width=110%}
 :::
+
+## Participação da Reitoria
+
+A edição 2026 do FTPA teve a visita da Pró-reitora de Graduação da Unicamp, Profa. Mônica Alonso Cotta. Ela visitou algumas das atividades do evento e interagiu com algumas das dinâmicas apresentadas pelos alunos da FT.
+
+::: {.centerText}
+![Pró-reitora Profa. Mônica Alonso Cotta ao lado da Diretora associada da FT, Profa. Carmenlucia e dos Profs. Vitor, Felippe e Vivian.](foto-pro-reitora.jpg){width=90%}
+:::
+
+
 
 ## Fotos do evento
 
